@@ -1,0 +1,11 @@
+{
+  "footer.languageForm.select.label": "Choisir la langue",
+  "footer.languageForm.submit.label": "Appliquer",
+  "footer.legalLinks.termsOfService": "Conditions d'utilisation",
+  "footer.legalLinks.acceptableUsePolicy": "Politique d'utilisation acceptable",
+  "footer.legalLinks.privacyPolicy": "Politique de confidentialité",
+  "footer.logo.altText": "Baobab logo",
+  "footer.logo.ariaLabel": "Baobab",
+  "footer.ariaLabel": "Bas de page"
+}
+

@@ -1,0 +1,361 @@
+en:
+  '% Correct': '% Correct'
+  '% Correct All Attempts': '% Correct Toutes les tentatives'
+  '% Correct First Attempts': '% de réponses correctes Premières tentatives'
+  '% Correct Last Attempts': 'Correct % Dernières tentatives'
+  '% Incorrect': '% Incorrect'
+  '% Video Seconds Rewatched': '% de secondes de vidéo regardées à nouveau'
+  '% Video Seconds Watched': '% de secondes de vidéo regardées'
+  ? |-
+    <dl>
+    <dt>Avg % Correct on 1st Attempt </dt>
+    <dd> The average percentage of correct answers on the first attempt of the learners who attempted the problem. </dd>
+    </dl>
+  : |-
+    <dl>
+    <dt>% moyen de réponses correctes à la première tentative </dt>
+    <dd> Le pourcentage moyen de réponses correctes à la première tentative des apprenants qui ont tenté de résoudre le problème. </dd>
+    </dl>
+  Action: Action
+  Action Count: Nombre d&#39;actions
+  Action Date: Date d&#39;intervention
+  Active: Actif
+  Active Courses: Cours actifs
+  Active Learner: Apprenant actif
+  Active Learners: Apprenants actifs
+  Active Users Per Organization: Utilisateurs actifs par organisation
+  Active Within Last 7 Days: Actif au cours des 7 derniers jours
+  Actor ID: ID de l&#39;acteur
+  Actor Id: Identifiant de l&#39;acteur
+  Actors Count: Nombre d&#39;acteurs
+  Approving State: État d'approbation
+  At Risk: En danger
+  At-Risk Learners: Apprenants à risque
+  Attempt: Tentative
+  Attempted All Problems: J&#39;ai tenté tous les problèmes
+  Attempted At Least One Problem: Vous avez tenté au moins un problème
+  Attempts: Tentatives
+  Average Score: Note moyenne
+  Avg % Correct on 1st Attempt: Moyenne % de réussite à la première tentative
+  Avg Attempts: Nombre moyen de tentatives
+  Avg Correct Attempts Coursewide: Moyenne des tentatives correctes à l'échelle du cours
+  Avg Correct Attempts by Selected Learners: Moyenne des tentatives correctes par les apprenants sélectionnés
+  Avg Course Grade: Note moyenne du cours
+  Avg Incorrect Attempts Coursewide: Moyenne des tentatives erronées Ensemble des cours
+  Avg Incorrect Attempts by Selected Learners: Moyenne des tentatives incorrectes des apprenants sélectionnés
+  Avg Score: Score moyen
+  Avg Video Length (seconds): Durée moyenne de la vidéo (secondes)
+  Block ID: Identifiant de blocage
+  Block Id: Bloquer l&#39;identifiant
+  COUNT(*): COMPTER(*)
+  Changed By Fk: Modifié par Fk
+  Changed On: Modifié le
+  Chart showing the number of Superset actions taken on each chart in the selected time period.: Graphique montrant le nombre d&#39;actions Superset effectuées sur chaque graphique au cours de la période sélectionnée.
+  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Graphique montrant le nombre d&#39;actions Superset effectuées sur chaque tableau de bord au cours de la période sélectionnée.
+  Chart showing the number of registered users over the selected time period.: Graphique montrant le nombre d&#39;utilisateurs enregistrés sur la période sélectionnée.
+  ClickHouse: Cliquez sur Maison
+  ClickHouse metrics: Métriques ClickHouse
+  Content Level: Niveau de contenu
+  Correct Attempts: Tentatives correctes
+  Correct Attempts By Learner: Tentatives correctes par l'apprenant
+  Correct Attempts by Selected Learner: Tentatives correctes par apprenant sélectionné
+  Count: Compter
+  Count of Passing Grades: Nombre de notes réussies
+  Count of Scores: Nombre de points
+  Count of unique users who performed an action in Superset over the selected time period.: Nombre d&#39;utilisateurs uniques qui ont effectué une action dans Superset au cours de la période sélectionnée.
+  Count over time of unique users who performed an action in Superset over the selected time period.: Comptez au fil du temps les utilisateurs uniques qui ont effectué une action dans Superset au cours de la période sélectionnée.
+  Course Comparison Dashboard: Tableau de bord de comparaison des cours
+  Course Dashboard: Tableau de bord du cours
+  Course Data JSON: Données de cours JSON
+  Course End: Fin du cours
+  Course Enrollment Mode Status Cnt: Statut du mode d&#39;inscription au cours Cnt
+  Course Enrollments Over Time: Inscriptions aux cours au fil du temps
+  Course Grade: Note du cours
+  Course Grade %: "% de note du cours"
+  Course ID: Identifiant du cours
+  Course Info: Informations sur le cours
+  Course Information: Informations sur les cours
+  Course Key: Clé du cours
+  Course Key Short: Clé de cours courte
+  Course Metrics: Indicateurs de cours
+  Course Name: Nom du cours
+  Course Order: Ordre des cours
+  Course Run: Exécution du cours
+  Course Start: Début du cours
+  Course Tag: Étiquette du cours
+  Course grade: Note du cours
+  Course name: Nom du cours
+  Course run: Déroulement du cours
+  Courses: Cours
+  Courses Cnt: Cours Cnt
+  Courses Per Organization: Cours par organisation
+  Coursewide % Correct: Pour l'ensemble des cours % de correction
+  Coursewide Percent Correct: Pourcentage de correction à l'échelle du cours
+  Coursewide averages are based on learners who attempted the problem.: Les moyennes pour l'ensemble du cours sont basées sur les apprenants qui ont tenté de résoudre le problème.
+  Coursewide percentages are based on learners who attempted the problem.: Les pourcentages à l'échelle du cours sont basés sur les apprenants qui ont tenté de résoudre le problème.
+  Created: Créé
+  Created By Fk: Créé par Fk
+  Created On: Créé sur
+  Cumulative Enrollments by Track: Inscriptions cumulées par filière
+  Cumulative Interactions: Interactions cumulatives
+  Current Active Enrollments By Mode: Inscriptions actives actuelles par mode
+  Current Enrollees: Inscrits actuels
+  Currently Enrolled Users: Utilisateurs actuellement inscrits
+  Dashboard ID: ID du tableau de bord
+  Dashboard Status: État du tableau de bord
+  Dashboard Title: Titre du tableau de bord
+  Datasource ID: ID de source de données
+  Datasource Name: Nom de la source de données
+  Datasource Type: Type de source de données
+  Date: Date
+  Description: Description
+  Display Name: Afficher un nom
+  Displays the top 10 highest enrollment courses. Selecting different courses in the filter will display those courses.: "Affiche les 10 cours ayant le plus grand nombre d'inscriptions. Si vous sélectionnez d'autres cours dans le filtre, ils s'afficheront."
+  Distribution of Course Grades: Répartition des notes des cours
+  Distribution of Current Course Grade: Répartition de la note actuelle du cours
+  Dump ID: ID de vidage
+  Duration (Seconds): Durée (secondes)
+  Email: E-mail
+  Emission Day: Jour d&#39;émission
+  Emission Hour: Heure d&#39;émission
+  Emission Time: Temps d&#39;émission
+  Engagement: Fiançailles
+  Enrolled At: Inscrit à
+  Enrollees by Enrollment Track: Inscrits par filière d&#39;inscription
+  Enrollees per Enrollment Track: Inscrits par filière d&#39;inscription
+  Enrollment: Inscription
+  Enrollment Counts: Effectifs
+  Enrollment Date: Date de l&#39;inscription
+  Enrollment Dates: Dates d&#39;inscription
+  Enrollment End: Fin des inscriptions
+  Enrollment Mode: Mode d&#39;inscription
+  Enrollment Start: Début des inscriptions
+  Enrollment Status: État de l&#39;inscription
+  Enrollment Track: Piste d&#39;inscription
+  Enrollment status: État de l&#39;inscription
+  Enrollment track: Piste d&#39;inscription
+  Enrollments: Inscriptions
+  Event Activity: Activité événementielle
+  Event ID: ID d&#39;événement
+  Event String: Chaîne d&#39;événement
+  Event Time: Heure de l&#39;évènement
+  Events Cnt: Centre d&#39;événements
+  Fail Login Count: Nombre d&#39;échecs de connexion
+  Final Response Results: Résultats de la réponse finale
+  First Name: Prénom
+  Full Views: Vues complètes
+  Grade Bucket: Godet de qualité
+  Grade Range: Gamme de notes
+  Grade range: Gamme de qualités
+  Graded: Noté
+  Graded Learners: Apprenants notés
+  Graded Subsection Engagement: "Engagement gradué Sous-section "
+  Graded Subsection Performance: "Performance notée Sous-section "
+  Help: Aide
+  Http User Agent: Agent utilisateur HTTP
+  Id: Identifiant
+  'In-Context Analytics: Course': 'Analyse en contexte : Cours'
+  'In-Context Analytics: Graded Subsection': 'Analyse en contexte : Noté Sous-section'
+  'In-Context Analytics: Problem': 'Analyse en contexte : exercice'
+  'In-Context Analytics: Video': 'Analyse en contexte : Vidéo'
+  Incorrect Attempts: Tentatives incorrectes
+  Incorrect Attempts By Learner: Tentatives incorrectes de l'apprenant
+  Incorrect Attempts by Selected Learner: Tentatives incorrectes de l'apprenant sélectionné
+  Individual Learner: Apprenant individuel
+  Initial Numeric Responses: Réponses numériques initiales
+  Initial Responses: Premières réponses
+  Instance Health: État de santé de l&#39;instance
+  Interaction Type: Type d&#39;interaction
+  Last Course Published: Dernier cours publié
+  Last Login: Dernière connexion
+  Last Name: Nom de famille
+  Last Received Event: Dernier événement reçu
+  Last Visit Date: Date de la dernière visite
+  Last Visited: Dernière visite
+  Last course syncronized: Dernier cours synchronisé
+  Learner Performance: Performance de l'apprenant
+  Learner Performance Breakdown: Ventilation des performances des apprenants
+  Learner Status: Statut de l'apprenant
+  Learner Summary: Résumé de l&#39;apprenant
+  Learners: Apprenants
+  Learners with Passing Grade: Apprenants ayant obtenu la note de passage
+  Login Count: Nombre de connexions
+  Median Attempts: Tentatives médianes
+  Median Course Grade: Note médiane du cours
+  Memory Usage (KB): Utilisation de la mémoire (Ko)
+  Memory Usage Mb: Utilisation de la mémoire Mo
+  Modified: Modifié
+  More details: Plus de détails
+  Most-used Charts: Graphiques les plus utilisés
+  Most-used Dashboards: Tableaux de bord les plus utilisés
+  Name: Nom
+  Name Org: Nom Org
+  Number of Learners: Nombre d&#39;apprenants
+  Number of Learners who Attempted the Problem: Nombre d&#39;apprenants qui ont tenté le problème
+  Number of Videos: Nombre de vidéos
+  Number of Videos Watched: Nombre de vidéos visionnées
+  Number of Views across Video Duration: Nombre de vues sur la durée de la vidéo
+  Object ID: ID d&#39;objet
+  Object Id: Objet identité
+  Object Type: Type d&#39;objet
+  Only available in versions Redwood and later: Disponible uniquement dans les versions Redwood et ultérieures
+  Operator Dashboard: Tableau de bord de l&#39;opérateur
+  Org: Organisation
+  Organization: Organisation
+  Organizations: Organisations
+  Overview: Aperçu
+  Page Count: Nombre de pages
+  Page Engagement Over Time: Engagement de la page au fil du temps
+  Page Engagement per Section: Engagement de page par section
+  Page Engagement per Section/Subsection: Engagement de page par section/sous-section
+  Page Engagement per Subsection: Engagement de page par sous-section
+  Pages: Pages
+  Partial Views: Vues partielles
+  Partial and Full Video Views: Vues vidéo partielles et complètes
+  Passed: Adopté
+  Passed/Failed: Réussi/Échec
+  Password: Mot de passe
+  Performance: Performance
+  Problem Attempts: Tentatives de problèmes
+  Problem Attempts and Results: Tentatives de problèmes et résultats
+  Problem Engagement: exercice Engagement
+  Problem Engagement per Section: Engagement contre les problèmes par section
+  Problem Engagement per Section/Subsection: Engagement contre les problèmes par section/sous-section
+  Problem Engagement per Subsection: Engagement contre les problèmes par sous-section
+  Problem Id: Numéro du problème
+  Problem Link: Lien du problème
+  Problem Location and Name: Emplacement et nom du problème
+  Problem Name: Nom du problème
+  Problem Name Location: exercice Nom localisation
+  Problem Name With Location: Nom du problème avec emplacement
+  Problem Number: exercice Nombre
+  Problem Part: exercice Partie
+  Problem Results: Résultats du problème
+  Problem Results Table: exercice Tableau des résultats
+  Problems: Problèmes
+  Query: Requête
+  Query Duration Ms: Durée de la requête Ms
+  Query performance: Performances des requêtes
+  Read Rows: Lire les lignes
+  Repeat Views: Répéter les vues
+  Respondents: Répondants
+  Response: Réponse
+  Response Count: Nombre de réponses
+  Response Numeric: Réponse Numérique
+  Responses: Réponses
+  Result: Résultat
+  Result Rows: Lignes de résultats
+  Rewatched Time: Le temps de la relecture
+  Rownum: Rownum
+  Run Metrics: Mesures d'exécution
+  Run Name: Nom de l'exécution
+  Scaled Score: Score échelonné
+  Score Range: Fourchette de scores
+  Section Location and Name: Emplacement et nom de la section
+  Section Name: Nom de la section
+  Section Subsection Video Engagement: Section Sous-section Engagement vidéo
+  Section Summary: Résumé de la section
+  Section With Name: Section avec nom
+  Section with name: Section avec nom
+  Section/Subsection Name: Nom de la section/sous-section
+  Section/Subsection Page Enggagement: Engagement des pages de section/sous-section
+  Section/Subsection Problem Engagement: Engagement de problème de section/sous-section
+  Section/Subsection Video Engagement: Engagement vidéo de section/sous-section
+  Segment Range: Gamme de segments
+  Segment Start: Début du segment
+  Selected Learner % Correct: Apprenant sélectionné % correct
+  Selected Learner % Incorrect: Apprenant sélectionné % d'erreurs
+  Selected Learner Percent Correct: Apprenant sélectionné Pourcentage de correction
+  Selected Learner Percent Incorrect: Apprenant sélectionné Pourcentage d'erreurs
+  Selected Learners % Correct: Apprenants sélectionnés % correct
+  Selected Learners % Incorrect: Apprenants sélectionnés % d'erreurs
+  Self Paced: À votre rythme
+  Slice ID: ID de tranche
+  Slice Name: Nom de la tranche
+  Slowest ClickHouse Queries: Requêtes ClickHouse les plus lentes
+  Start Position: La position de départ
+  Started At: Commencé à
+  Subsection Location and Name: Emplacement et nom de la sous-section
+  Subsection Name: Nom de la sous-section
+  Subsection Number: Sous-section Nombre
+  Subsection Summary: Résumé de la sous-section
+  Subsection With Name: Sous-section avec nom
+  Subsection with name: Sous-section avec nom
+  Success: Succès
+  Superset: Surensemble
+  Superset Active Users: Utilisateurs actifs du surensemble
+  Superset Active Users Over Time: Superset des utilisateurs actifs au fil du temps
+  Superset Registered Users Over Time: Superset des utilisateurs enregistrés au fil du temps
+  Tables: les tables
+  Tag: Étiquette
+  Tags: Tags
+  Tags Str: Tags Str
+  Time Grain: Grain de temps
+  Time Last Dumped: Heure du dernier dumping
+  Time Range: Intervalle de temps
+  Time Stamp: Horodatage
+  ? To view the number of views across the duration of a single video, click the name
+    of the video in the Video Link column in table above.
+  : "Pour afficher le nombre de vues sur la durée d'une seule vidéo, cliquez sur le nom de la vidéo dans la colonne Lien vidéo du tableau ci-dessus."
+  Total: Total
+  Total Avg: Total Moyenne
+  Total Courses: Cours totaux
+  Total Organizations: Total des organisations
+  Total Views: Vues totales
+  Unique Viewers: Visionneuses uniques
+  Unique vs. Repeat Views: Vues uniques et vues répétées
+  User ID: ID de l&#39;utilisateur
+  User Info: informations utilisateur
+  User Name: Nom d&#39;utilisateur
+  User Registration Date: Date d&#39;enregistrement de l&#39;utilisateur
+  Username: Nom d&#39;utilisateur
+  Value: Valeur
+  Verb: Verbe
+  Verb ID: ID du verbe
+  Video Count: Compte vidéo
+  Video Duration: Durée de la vidéo
+  Video Engagement: Engagement vidéo
+  Video Engagement per Section: Engagement vidéo par section
+  Video Engagement per Section/Subsection: Engagement vidéo par section/sous-section
+  Video Engagement per Subsection: Engagement vidéo par sous-section
+  Video Event: Événement vidéo
+  Video ID: ID vidéo
+  Video Id: Vidéo Id
+  Video Link: Lien vidéo
+  Video Location and Name: Emplacement et nom de la vidéo
+  Video Name: Nom de la vidéo
+  Video Name Location: Nom de la vidéo localisation
+  Video Name With Location: Nom de la vidéo avec emplacement
+  Video Number: Numéro de la vidéo
+  Video Position: Emplacement de la vidéo
+  Video Segment Count: Nombre de segments vidéo
+  Videos: Vidéos
+  Viewed All Pages: Toutes les pages consultées
+  Viewed All Videos: Visionné toutes les vidéos
+  Viewed At Least One Page: Consulté au moins une page
+  Viewed At Least One Video: Vous avez visionné au moins une vidéo
+  Visited On: Visité le
+  Visualization Bucket: Compartiment de visualisation
+  Watched Entire Video: J&#39;ai regardé la vidéo en entier
+  Watched Segment Count: Nombre de segments regardés
+  Watched Time: Temps de veille
+  audit: Audit
+  failed: échoué
+  graded: noté
+  honor: honneur
+  order: commande
+  passed: passé
+  registered: inscrit
+  section_subsection_name: nom_sous-section_section
+  section_subsection_page_engagement: section_subsection_page_engagement
+  section_subsection_problem_engagement: section_subsection_problem_engagement
+  sort: trier
+  success: succès
+  ungraded: non classé
+  unregistered: non enregistré
+  verified: vérifié
+  '{{ASPECTS_COURSE_COMPARISON_HELP_MARKDOWN}}': '{{ASPECTS_COURSE_COMPARISON_HELP_MARKDOWN}}'
+  '{{ASPECTS_COURSE_OVERVIEW_HELP_MARKDOWN}}': '{{ASPECTS_COURSE_OVERVIEW_HELP_MARKDOWN}}'
+  '{{ASPECTS_INDIVIDUAL_LEARNER_HELP_MARKDOWN}}': '{{ASPECTS_INDIVIDUAL_LEARNER_HELP_MARKDOWN}}'
+  '{{ASPECTS_LEARNER_GROUPS_HELP_MARKDOWN}}': '{{ASPECTS_LEARNER_GROUPS_HELP_MARKDOWN}}'
+  '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}'
