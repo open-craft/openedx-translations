@@ -6058,10 +6058,10 @@ msgstr "Le score de remplacement à définir."
 
 #: lms/djangoapps/instructor/views/tools.py:79
 #, python-brace-format
-msgid "Could not find student matching identifier: {student_identifier}"
+msgid "Could not find student matching identifier: {student}"
 msgstr ""
 "Impossible de trouver l&#39;identifiant correspondant à l&#39;étudiant : "
-"{student_identifier}"
+"{student}"
 
 #: lms/djangoapps/instructor/views/tools.py:93
 msgid "Unable to parse date: "
