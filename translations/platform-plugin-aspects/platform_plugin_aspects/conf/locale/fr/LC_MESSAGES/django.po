@@ -4,16 +4,15 @@
 # EdX Team <info@edx.org>, 2024.
 # 
 # Translators:
-# Omar Al-Ithawi <i@omardo.com>, 2024
-# edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
+# Eden Huthmacher, 2024
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-19 00:52+0000\n"
-"PO-Revision-Date: 2024-04-20 01:08+0000\n"
-"Last-Translator: edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025\n"
+"POT-Creation-Date: 2024-05-09 00:33+0000\n"
+"PO-Revision-Date: 2024-05-09 18:48+0000\n"
+"Last-Translator: Eden Huthmacher, 2024\n"
 "Language-Team: French (https://app.transifex.com/open-edx/teams/6205/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,44 +20,28 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: extensions/filters.py:58
+#: extensions/filters.py:60
 msgid "Reports"
 msgstr "Rapports"
 
 #: settings/common.py:31
 msgid "Course Dashboard"
-msgstr "Tableau de bord du cours"
+msgstr "Tableau de bord des cours"
 
 #: settings/common.py:37
 msgid "Individual Learner Dashboard"
-msgstr "Tableau de bord de l&#39;apprenant individuel"
+msgstr "Tableau de bord individuel de l'apprenant"
 
 #: settings/common.py:43
 msgid "At-Risk Learners Dashboard"
 msgstr "Tableau de bord des apprenants à risque"
-
-#: settings/common.py:114
-msgid "Course"
-msgstr "Cours"
-
-#: settings/common.py:122
-msgid "Graded Subsection"
-msgstr "Noté Sous-section"
-
-#: settings/common.py:130
-msgid "Problem"
-msgstr "exercice"
-
-#: settings/common.py:138
-msgid "Video"
-msgstr "Vidéo"
 
 #: static/html/superset.html:9
 msgid ""
 "Superset is not configured properly. Please contact your system "
 "administrator."
 msgstr ""
-"Le superset n&#39;est pas configuré correctement. Veuillez contacter votre "
+"Le Superset n'est pas configuré correctement. Veuillez contacter votre "
 "administrateur système."
 
 #: static/html/superset_student.html:4
@@ -66,54 +49,61 @@ msgid ""
 "Superset is only visible to course staff and instructors. Please contact "
 "your system administrator."
 msgstr ""
-"Le superset n&#39;est visible que par le personnel du cours et les "
-"instructeurs. Veuillez contacter votre administrateur système."
+"Le Superset n'est visible que par le personnel du cours et les instructeurs."
+" Veuillez contacter votre administrateur système."
 
-#: views.py:87
+#: utils.py:162
 #, python-brace-format
-msgid "Course not found: '{course_id}'"
-msgstr "Cours introuvable : &#39;{course_id}&#39;"
+msgid ""
+"Unable to fetch Superset guest token, Superset server error "
+"{server_response}"
+msgstr ""
+"Impossible de récupérer le jeton d'invité Superset, erreur du serveur "
+"Superset {server_response}"
 
-#: views.py:114
+#: utils.py:171
+msgid ""
+"Unable to fetch Superset guest token, mostly likely due to invalid "
+"settings.SUPERSET_CONFIG"
+msgstr ""
+"Impossible de récupérer le jeton d'invité Superset, probablement en raison "
+"de paramètres invalides.SUPERSET_CONFIG"
+
+#: views.py:83
 #, python-brace-format
 msgid "Invalid course id: '{course_id}'"
-msgstr "Identifiant de cours invalide : &#39;{course_id}&#39;"
+msgstr "Identifiant de cours non valide : '{course_id}'"
 
-#: views.py:179
+#: views.py:95
 #, python-brace-format
-msgid "Invalid usage id: '{usage_id}'"
-msgstr "Utilisation non valide identité: '{usage_id}'"
+msgid "Course not found: '{course_id}'"
+msgstr "Cours non trouvé : '{course_id}'"
 
-#: views.py:208
-#, python-brace-format
-msgid "No dashboard for block type: '{block_type}'"
-msgstr "Pas de tableau de bord pour le type de bloc : '{block_type}'"
-
-#: xblock.py:48 xblock.py:49
+#: xblock.py:47 xblock.py:48
 msgid "Display name"
-msgstr "Afficher un nom"
+msgstr "Nom d'affichage"
 
-#: xblock.py:50
+#: xblock.py:49
 msgid "Superset Dashboard"
-msgstr "Tableau de bord surensemble"
+msgstr "Tableau de bord Superset"
 
-#: xblock.py:55
+#: xblock.py:54
 msgid "Dashboard UUID"
 msgstr "UUID du tableau de bord"
 
-#: xblock.py:57
+#: xblock.py:56
 msgid ""
 "The ID of the dashboard to embed. Available in the Superset embed dashboard "
 "UI."
 msgstr ""
-"L&#39;ID du tableau de bord à intégrer. Disponible dans l’interface "
-"utilisateur du tableau de bord intégré Superset."
+"L'ID du tableau de bord à intégrer. Disponible dans l'interface "
+"d'intégration du tableau de bord Superset."
 
-#: xblock.py:64
+#: xblock.py:63
 msgid "Filters"
 msgstr "Filtres"
 
-#: xblock.py:66
+#: xblock.py:65
 msgid ""
 "List of SQL filters to apply to the\n"
 "               dashboard. E.g: [\"org='edX'\", \"country in ('us', 'co')\"]\n"
@@ -121,6 +111,6 @@ msgid ""
 "               "
 msgstr ""
 "Liste des filtres SQL à appliquer au\n"
-" tableau de bord. Par exemple : [&quot;org=&#39;edX&#39;&quot;, &quot;pays dans (&#39;us&#39;, &#39;co&#39;)&quot;]\n"
-" Les champs utilisés ici doivent être disponibles sur chaque ensemble de données utilisé par le tableau de bord.\n"
+"               tableau de bord. Par exemple : [\"org='edX'\", \"country in ('us', 'co')\"].\n"
+"               Les champs utilisés ici doivent être disponibles dans chaque ensemble de données utilisé par le tableau de bord.\n"
 "               "
