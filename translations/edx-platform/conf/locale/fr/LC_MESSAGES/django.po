@@ -5679,9 +5679,9 @@ msgstr "Tous les champs doivent être remplis"
 
 #: lms/djangoapps/instructor/views/api.py:3210
 #, python-brace-format
-msgid "Could not find student matching identifier: {student}"
+msgid "Could not find student matching identifier: {student_identifier}"
 msgstr ""
-"Impossible de trouver apprenant correspondant à l'identifiant : {apprenant}"
+"Impossible de trouver apprenant correspondant à l'identifiant : {student_identifier}"
 
 #: lms/djangoapps/instructor/views/api.py:3219
 msgid "The extension due date and time format is incorrect"
@@ -13706,7 +13706,7 @@ msgstr ""
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
-"{assignment_type} = {weighted_percent : 0,2 %} d&#39;un {poids : 0,2 %} "
+"{assignment_type} = {weighted_percent:.2%} d&#39;un {weight:.2%} "
 "possible"
 
 #: xmodule/graders.py:382
@@ -13729,7 +13729,7 @@ msgstr "Les scores {drop_count} {section_type} les plus bas sont supprimés."
 #: xmodule/graders.py:436
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{section_type} Moyenne = {percent :.2%}"
+msgstr "{section_type} Moyenne = {percent:.2%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:441
@@ -20307,7 +20307,7 @@ msgid ""
 "User '{user}' with e-mail {email} has requested {studio_name} course creator"
 " privileges."
 msgstr ""
-"L'utilisateur '{utilisateur}' avec l'e-mail {email} a demandé les privilèges"
+"L'utilisateur '{user}' avec l'e-mail {email} a demandé les privilèges"
 " de créateur de cours {studio_name}."
 
 #: cms/templates/emails/course_creator_admin_user_pending.txt:5
