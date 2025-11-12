@@ -13512,7 +13512,7 @@ msgstr ""
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
-"{assignment_type} = {weighted_percent : 0,2 %} d'un {poids : 0,2 %} "
+"{assignment_type} = {weighted_percent:.2%} d'un {weight:.2%} "
 "possible"
 
 #: xmodule/graders.py:382
@@ -13535,7 +13535,7 @@ msgstr "Les scores {drop_count} {section_type} les plus bas sont supprimés."
 #: xmodule/graders.py:433
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{section_type} Moyenne = {percent :.2%}"
+msgstr "{section_type} Moyenne = {percent:.2%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:438
@@ -20100,7 +20100,7 @@ msgid ""
 "User '{user}' with e-mail {email} has requested {studio_name} course creator"
 " privileges."
 msgstr ""
-"L'utilisateur '{utilisateur}' avec l'e-mail {email} a demandé les privilèges"
+"L'utilisateur '{user}' avec l'e-mail {email} a demandé les privilèges"
 " de créateur de cours {studio_name}."
 
 #: cms/templates/emails/course_creator_admin_user_pending.txt:5
