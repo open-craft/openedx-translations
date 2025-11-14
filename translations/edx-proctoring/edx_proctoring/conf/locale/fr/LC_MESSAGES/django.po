@@ -3,11 +3,11 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Brian Smith, 2025
 # Eden Huthmacher, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-proctoring\n"
@@ -96,7 +96,7 @@ msgstr "Intégration manquante"
 
 #: admin.py:408
 msgid "Onboarding Failed"
-msgstr "Échec de l&#39;intégration"
+msgstr "Échec de l'intégration"
 
 #: admin.py:409
 msgid "Onboarding Pending"
@@ -154,7 +154,7 @@ msgstr "Examen chronométré"
 
 #: api.py:2888
 msgid "Onboarding status question"
-msgstr "Question sur le statut d&#39;intégration"
+msgstr "Question sur le statut d'intégration"
 
 #: models.py:391
 msgid "Taking as Proctored"
@@ -174,7 +174,7 @@ msgstr "Temps supplémentaire (minutes)"
 
 #: models.py:525
 msgid "Review Policy Exception"
-msgstr "Exception aux règles d&#39;examen"
+msgstr "Exception aux règles d'examen"
 
 #: templates/common/waiting_banner.html:3
 msgid ""
@@ -283,7 +283,7 @@ msgstr ""
 
 #: templates/onboarding_exam/entrance.html:58
 msgid "Continue to onboarding"
-msgstr "Continuer l&#39;intégration"
+msgstr "Continuer l'intégration"
 
 #: templates/onboarding_exam/entrance.html:62
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "  "
 msgstr ""
 "\n"
-"    Vous serez guidé dans la configuration d&#39;un logiciel de surveillance en ligne et dans la vérification de votre identité.\n"
+"    Vous serez guidé dans la configuration d'un logiciel de surveillance en ligne et dans la vérification de votre identité.\n"
 "  "
 
 #: templates/onboarding_exam/error.html:13
@@ -315,7 +315,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"      Vous passez « %(exam_display_name)s » comme examen d&#39;intégration. Vous devez cliquer sur « Oui, mettre fin à mon examen surveillé » et soumettre votre session de surveillance pour terminer l&#39;intégration.\n"
+"      Vous passez « %(exam_display_name)s » comme examen d'intégration. Vous devez cliquer sur « Oui, mettre fin à mon examen surveillé » et soumettre votre session de surveillance pour terminer l'intégration.\n"
 "    "
 
 #: templates/onboarding_exam/rejected.html:5
@@ -366,7 +366,7 @@ msgstr ""
 #: templates/onboarding_exam/submitted.html:41
 msgid "I understand and want to reset this onboarding exam."
 msgstr ""
-"Je comprends et je souhaite réinitialiser cet examen d&#39;intégration."
+"Je comprends et je souhaite réinitialiser cet examen d'intégration."
 
 #: templates/onboarding_exam/submitted.html:53
 #: templates/onboarding_exam/verified.html:16
@@ -393,7 +393,7 @@ msgid ""
 "  "
 msgstr ""
 "\n"
-"    Votre profil d&#39;intégration a été examiné avec succès\n"
+"    Votre profil d'intégration a été examiné avec succès\n"
 "  "
 
 #: templates/onboarding_exam/verified.html:11
@@ -502,12 +502,12 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        Si vous passez cet examen sans surveillance, vous ne serez pas éligible aux crédits de cours ni au titre MicroMasters si l&#39;un ou l&#39;autre s&#39;applique à ce cours.\n"
+"        Si vous passez cet examen sans surveillance, vous ne serez pas éligible aux crédits de cours ni au titre MicroMasters si l'un ou l'autre s'applique à ce cours.\n"
 "      "
 
 #: templates/proctored_exam/confirm-decline.html:16
 msgid "Continue Exam Without Proctoring"
-msgstr "Continuer l&#39;examen sans surveillance"
+msgstr "Continuer l'examen sans surveillance"
 
 #: templates/proctored_exam/confirm-decline.html:19
 msgid "Go Back"
@@ -533,7 +533,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"      Pour être admissible au crédit ou au titre de programme associé à ce cours, vous devez réussir l&#39;examen de surveillance pour cet examen.\n"
+"      Pour être admissible au crédit ou au titre de programme associé à ce cours, vous devez réussir l'examen de surveillance pour cet examen.\n"
 "\n"
 "    "
 
@@ -651,7 +651,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"    Vous n&#39;avez pas satisfait aux exigences pour passer cet examen avec surveillance.\n"
+"    Vous n'avez pas satisfait aux exigences pour passer cet examen avec surveillance.\n"
 "    "
 
 #: templates/proctored_exam/failed-prerequisites.html:32
@@ -745,7 +745,7 @@ msgstr "Démarrer la vérification du système"
 
 #: templates/proctored_exam/instructions.html:36
 msgid "Start Exam"
-msgstr "Commencer l&#39;examen"
+msgstr "Commencer l'examen"
 
 #: templates/proctored_exam/instructions.html:45
 msgid ""
@@ -764,7 +764,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"        Sélectionnez le code de l&#39;examen, puis copiez-le à l&#39;aide de Ctrl + C (Windows) ou Commande + C (Mac).\n"
+"        Sélectionnez le code de l'examen, puis copiez-le à l'aide de Ctrl + C (Windows) ou Commande + C (Mac).\n"
 "      "
 
 #: templates/proctored_exam/instructions.html:64
@@ -794,7 +794,7 @@ msgstr "Avoir un ordinateur avec une webcam fonctionnelle"
 #: templates/proctored_exam/instructions.html:75
 msgid "Have your valid photo ID (e.g. driver's license or passport) ready"
 msgstr ""
-"Préparez votre pièce d&#39;identité valide avec photo (par exemple, permis "
+"Préparez votre pièce d'identité valide avec photo (par exemple, permis "
 "de conduire ou passeport)"
 
 #: templates/proctored_exam/instructions.html:86
@@ -835,7 +835,7 @@ msgstr ""
 #: templates/proctored_exam/onboarding_error.html:17
 #: templates/proctored_exam/onboarding_error.html:32
 msgid "Navigate to onboarding exam"
-msgstr "Accédez à l&#39;examen d&#39;intégration"
+msgstr "Accédez à l'examen d'intégration"
 
 #: templates/proctored_exam/onboarding_error.html:21
 msgid ""
@@ -1028,7 +1028,7 @@ msgid ""
 "Make sure that you have selected \"Submit\" for each answer before you "
 "submit your exam."
 msgstr ""
-"Assurez-vous d&#39;avoir sélectionné « Soumettre » pour chaque réponse avant"
+"Assurez-vous d'avoir sélectionné « Soumettre » pour chaque réponse avant"
 " de soumettre votre examen."
 
 #: templates/proctored_exam/ready_to_submit.html:12
@@ -1037,7 +1037,7 @@ msgid ""
 "your proctoring session will be submitted for review."
 msgstr ""
 "Une fois que vous aurez cliqué sur « Oui, mettre fin à mon examen "
-"surveillé », l&#39;examen sera clôturé et votre session de surveillance sera"
+"surveillé », l'examen sera clôturé et votre session de surveillance sera"
 " soumise pour révision."
 
 #: templates/proctored_exam/ready_to_submit.html:15
@@ -1100,7 +1100,7 @@ msgid ""
 "that you want to quit the application."
 msgstr ""
 "Si la fenêtre du logiciel de surveillance est toujours ouverte, fermez-la "
-"maintenant et confirmez que vous souhaitez quitter l&#39;application."
+"maintenant et confirmez que vous souhaitez quitter l'application."
 
 #: templates/proctored_exam/submitted.html:13
 msgid ""
