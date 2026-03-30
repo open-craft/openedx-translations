@@ -22,7 +22,7 @@ msgstr ""
 
 #: mixins/grading.py:72
 msgid "We could not execute your query; please try again."
-msgstr "Nous n&#39;avons pas pu exécuter votre requête ; Veuillez réessayer."
+msgstr "Nous n'avons pas pu exécuter votre requête ; Veuillez réessayer."
 
 #: mixins/grading.py:89
 msgid "Weight"
@@ -72,8 +72,8 @@ msgid ""
 "query here, which is used for matching the answer"
 msgstr ""
 "Une requête SQL de vérification secondaire, à utiliser si la réponse_query "
-"modifie la base de données (UPDATE, INSERT, SUPPRIMER, etc.). N&#39;entrez "
-"ici qu&#39;une seule requête SELECT, qui est utilisée pour faire "
+"modifie la base de données (UPDATE, INSERT, SUPPRIMER, etc.). N'entrez "
+"ici qu'une seule requête SELECT, qui est utilisée pour faire "
 "correspondre la réponse"
 
 #: mixins/grading.py:202
@@ -86,7 +86,7 @@ msgid ""
 "before the verify_query."
 msgstr ""
 "Instructions SQL facultatives, à exécuter après la requête soumise par "
-"l&#39;Utilisateur, mais avant la requête verify_query."
+"l'Utilisateur, mais avant la requête verify_query."
 
 #: mixins/grading.py:212
 msgid "Is Ordered?"
@@ -148,13 +148,13 @@ msgid ""
 "Your queries are executed using SQLite, so you must conform to the SQL "
 "constructs supported by SQLite."
 msgstr ""
-"Vos requêtes sont exécutées à l&#39;aide de SQLite, vous devez donc vous "
+"Vos requêtes sont exécutées à l'aide de SQLite, vous devez donc vous "
 "conformer aux constructions SQL prises en charge par SQLite."
 
 #: templates/view.html:27
 msgid "Press ESC then TAB or click outside of the code editor to exit"
 msgstr ""
-"Appuyez sur ESC puis TAB ou cliquer en dehors de l&#39;éditeur de code pour "
+"Appuyez sur ESC puis TAB ou cliquer en dehors de l'éditeur de code pour "
 "quitter"
 
 #: templates/view.html:33

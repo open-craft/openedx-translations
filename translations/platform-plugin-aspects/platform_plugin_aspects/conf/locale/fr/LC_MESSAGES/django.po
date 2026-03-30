@@ -32,7 +32,7 @@ msgstr "Tableau De Bord du cours"
 
 #: settings/common.py:37
 msgid "Individual Learner Dashboard"
-msgstr "Tableau de bord de l&#39;Apprenant individuel"
+msgstr "Tableau de bord de l'Apprenant individuel"
 
 #: settings/common.py:43
 msgid "At-Risk Learners Dashboard"
@@ -59,7 +59,7 @@ msgid ""
 "Superset is not configured properly. Please contact your system "
 "administrator."
 msgstr ""
-"Le superset n&#39;est pas configuré correctement. Veuillez contacter votre "
+"Le superset n'est pas configuré correctement. Veuillez contacter votre "
 "administrateur système."
 
 #: static/html/superset_student.html:4
@@ -67,18 +67,18 @@ msgid ""
 "Superset is only visible to course staff and instructors. Please contact "
 "your system administrator."
 msgstr ""
-"Le superset n&#39;est visible que par le personnel du cours et les "
+"Le superset n'est visible que par le personnel du cours et les "
 "instructeurs. Veuillez contacter votre administrateur système."
 
 #: views.py:87
 #, python-brace-format
 msgid "Course not found: '{course_id}'"
-msgstr "Cours introuvable : &#39;{course_id}&#39;"
+msgstr "Cours introuvable : '{course_id}'"
 
 #: views.py:114
 #, python-brace-format
 msgid "Invalid course id: '{course_id}'"
-msgstr "Identifiant du cours invalide : &#39;{course_id}&#39;"
+msgstr "Identifiant du cours invalide : '{course_id}'"
 
 #: views.py:179
 #, python-brace-format
@@ -107,7 +107,7 @@ msgid ""
 "The ID of the dashboard to embed. Available in the Superset embed dashboard "
 "UI."
 msgstr ""
-"L&#39;ID du tableau de bord à intégrer. Disponible dans l’interface "
+"L'ID du tableau de bord à intégrer. Disponible dans l’interface "
 "utilisateur du tableau de bord intégré Superset."
 
 #: xblock.py:64

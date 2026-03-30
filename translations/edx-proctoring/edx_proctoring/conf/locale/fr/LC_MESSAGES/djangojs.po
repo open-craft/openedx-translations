@@ -24,13 +24,13 @@ msgstr ""
 
 #: static/proctoring/js/exam_action_handler.js:44
 msgid "OK"
-msgstr "D&#39;ACCORD"
+msgstr "D'ACCORD"
 
 #: static/proctoring/js/exam_action_handler.js:130
 #: static/proctoring/js/exam_action_handler.js:195
 #: static/proctoring/js/exam_action_handler.js:206
 msgid "Error Ending Exam"
-msgstr "Erreur de fin d&#39;examen"
+msgstr "Erreur de fin d'examen"
 
 #: static/proctoring/js/exam_action_handler.js:132
 #: static/proctoring/js/exam_action_handler.js:208
@@ -38,13 +38,13 @@ msgid ""
 "Something has gone wrong ending your exam. Please reload the page and start "
 "again."
 msgstr ""
-"Quelque chose s&#39;est mal passé à la fin de votre examen. Veuillez "
+"Quelque chose s'est mal passé à la fin de votre examen. Veuillez "
 "recharger la page et recommencer."
 
 #: static/proctoring/js/exam_action_handler.js:159
 #: static/proctoring/js/exam_action_handler.js:170
 msgid "Error Starting Exam"
-msgstr "Erreur lors du démarrage de l&#39;examen"
+msgstr "Erreur lors du démarrage de l'examen"
 
 #: static/proctoring/js/exam_action_handler.js:161
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "application is running."
 msgstr ""
 "Quelque chose s’est mal passé au début de votre examen. Veuillez vérifier "
-"que l&#39;application est en cours d&#39;exécution."
+"que l'application est en cours d'exécution."
 
 #: static/proctoring/js/exam_action_handler.js:172
 msgid ""
@@ -67,8 +67,8 @@ msgid ""
 "Something has gone wrong ending your exam. Please double-check that the "
 "application is running."
 msgstr ""
-"Quelque chose s&#39;est mal passé lors de la fin de votre examen. Veuillez "
-"vérifier que l&#39;application est en cours d&#39;exécution."
+"Quelque chose s'est mal passé lors de la fin de votre examen. Veuillez "
+"vérifier que l'application est en cours d'exécution."
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:218
 #: static/proctoring/js/views/proctored_exam_allowance_view.js:13
@@ -82,7 +82,7 @@ msgstr "Ajouter du temps (minutes)"
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:226
 msgid "Add Multiplier as a Number Greater Than 1"
-msgstr "Ajouter un multiplicateur sous la forme d&#39;un nombre supérieur à 1"
+msgstr "Ajouter un multiplicateur sous la forme d'un nombre supérieur à 1"
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:228
 msgid "Add Policy Exception"
@@ -193,13 +193,13 @@ msgstr "Chronométré"
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:214
 msgid "Are you sure you want to remove this student's exam attempt?"
 msgstr ""
-"Êtes-vous sûr de vouloir supprimer la tentative d&#39;examen de cet "
+"Êtes-vous sûr de vouloir supprimer la tentative d'examen de cet "
 "apprenant ?"
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:248
 msgid "Are you sure you want to resume this student's exam attempt?"
 msgstr ""
-"Êtes-vous sûr de vouloir reprendre la tentative d&#39;examen de cet "
+"Êtes-vous sûr de vouloir reprendre la tentative d'examen de cet "
 "apprenant ?"
 
 #: static/proctoring/js/views/proctored_exam_info.js:13
@@ -307,7 +307,7 @@ msgstr "Professionnel"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:45
 msgid "No ID Professional"
-msgstr "Pas d&#39;Identité professionnelle"
+msgstr "Pas d'Identité professionnelle"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:46
 msgid "Credit"
@@ -327,4 +327,4 @@ msgid ""
 "To pass your proctored exam you must also pass the online proctoring session review."
 msgstr ""
 "Êtes-vous sûr de vouloir quitter cette page ? \n"
-"Pour réussir votre examen surveillé, vous devez également réussir l&#39;examen de la session de surveillance en ligne."
+"Pour réussir votre examen surveillé, vous devez également réussir l'examen de la session de surveillance en ligne."

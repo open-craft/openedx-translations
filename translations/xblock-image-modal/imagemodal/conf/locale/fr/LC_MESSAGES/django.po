@@ -27,7 +27,7 @@ msgstr "Nom d'affichage"
 
 #: models.py:28
 msgid "This is the XBlock's display name"
-msgstr "Ceci est le nom d&#39;affichage du XBlock"
+msgstr "Ceci est le nom d'affichage du XBlock"
 
 #: models.py:32
 msgid "Image URL"
@@ -36,7 +36,7 @@ msgstr "URL de l'image"
 #: models.py:41
 msgid "This is the location of the full-screen image to be displayed."
 msgstr ""
-"Il s&#39;agit de la localisation de l&#39;image plein écran à afficher."
+"Il s'agit de la localisation de l'image plein écran à afficher."
 
 #: models.py:46
 msgid "Thumbnail URL"
@@ -56,7 +56,7 @@ msgstr "Description"
 
 #: models.py:59
 msgid "Description text, displayed to screen readers"
-msgstr "Texte de description, affiché aux lecteurs d&#39;écran"
+msgstr "Texte de description, affiché aux lecteurs d'écran"
 
 #: models.py:64
 msgid "Alt Text"
@@ -67,7 +67,7 @@ msgid ""
 "This field allows you to add alternate or descriptive text that pertains to "
 "your image."
 msgstr ""
-"Ce champ vous permet d&#39;ajouter un texte alternatif ou descriptif relatif"
+"Ce champ vous permet d'ajouter un texte alternatif ou descriptif relatif"
 " à votre image."
 
 #: templates/view.html:15

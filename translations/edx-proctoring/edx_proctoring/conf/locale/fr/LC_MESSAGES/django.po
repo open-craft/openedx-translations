@@ -147,7 +147,7 @@ msgstr "Échec de la surveillance"
 
 #: api.py:2278
 msgid "Proctored Option No Longer Available"
-msgstr "Option surveillée n&#39;est plus disponible"
+msgstr "Option surveillée n'est plus disponible"
 
 #: api.py:2287
 msgid "Ungraded Practice Exam"
@@ -159,7 +159,7 @@ msgstr "Examen pratique terminé"
 
 #: api.py:2297
 msgid "Practice Exam Failed"
-msgstr "Échec de l&#39;examen pratique"
+msgstr "Échec de l'examen pratique"
 
 #: api.py:2305
 msgid "Timed Exam"
@@ -167,7 +167,7 @@ msgstr "Examen chronométré"
 
 #: api.py:2888
 msgid "Onboarding status question"
-msgstr "Question sur le statut d&#39;intégration"
+msgstr "Question sur le statut d'intégration"
 
 #: models.py:391
 msgid "Taking as Proctored"
@@ -396,7 +396,7 @@ msgstr ""
 #: templates/onboarding_exam/submitted.html:41
 msgid "I understand and want to reset this onboarding exam."
 msgstr ""
-"Je comprends et je souhaite réinitialiser cet examen d&#39;intégration."
+"Je comprends et je souhaite réinitialiser cet examen d'intégration."
 
 #: templates/onboarding_exam/verified.html:4
 msgid ""
@@ -405,7 +405,7 @@ msgid ""
 "  "
 msgstr ""
 "\n"
-"    Votre profil d&#39;intégration a été examiné bien\n"
+"    Votre profil d'intégration a été examiné bien\n"
 "  "
 
 #: templates/practice_exam/entrance.html:5
@@ -597,7 +597,7 @@ msgstr ""
 
 #: templates/proctored_exam/instructions.html:51
 msgid "Copy Exam Code"
-msgstr "Copier le code d&#39;examen"
+msgstr "Copier le code d'examen"
 
 #: templates/proctored_exam/instructions.html:59
 msgid ""

@@ -32,7 +32,7 @@ msgstr ""
 
 #: image_explorer.py:62
 msgid "Image Explorer"
-msgstr "Explorateur d&#39;images"
+msgstr "Explorateur d'images"
 
 #: image_explorer.py:66
 msgid "Hot Spots Coordinates Centered"
@@ -41,7 +41,7 @@ msgstr "Coordonnées des points chauds centrés"
 #: image_explorer.py:72
 msgid "Store hotspots opened by student, for completion"
 msgstr ""
-"Points d&#39;accès de stockage ouverts par l&#39;apprenant, à finaliser"
+"Points d'accès de stockage ouverts par l'apprenant, à finaliser"
 
 #: image_explorer.py:77
 msgid "XML contents to display for this module"
@@ -58,12 +58,12 @@ msgstr "Titre"
 #: templates/html/image_explorer_edit.html:11
 msgid "The title of the Image Explorer that is displayed to the user"
 msgstr ""
-"Le titre de l&#39;Explorateur d&#39;images qui est affiché à "
-"l&#39;utilisateur"
+"Le titre de l'Explorateur d'images qui est affiché à "
+"l'utilisateur"
 
 #: templates/html/image_explorer_edit.html:17
 msgid "Hotspot coordinates centered"
-msgstr "Coordonnées du point d&#39;accès centrées"
+msgstr "Coordonnées du point d'accès centrées"
 
 #: templates/html/image_explorer_edit.html:19
 msgid ""
@@ -79,7 +79,7 @@ msgid ""
 "image"
 msgstr ""
 "Si défini sur faux, supposé pointer vers le coin supérieur gauche de "
-"l&#39;image du point chaud"
+"l'image du point chaud"
 
 #: templates/html/image_explorer_edit.html:24
 msgid "Definition"
@@ -87,7 +87,7 @@ msgstr "Définition"
 
 #: templates/html/image_explorer_edit.html:25
 msgid "The XML definition for the Image Explorer"
-msgstr "La définition XML pour l&#39;Explorateur d&#39;images"
+msgstr "La définition XML pour l'Explorateur d'images"
 
 #: templates/html/image_explorer_edit.html:36
 msgid "Save"

@@ -101,7 +101,7 @@ msgstr "Va au fond"
 
 #: default_data.py:32
 msgid "Goes anywhere"
-msgstr "Va n&#39;importe où"
+msgstr "Va n'importe où"
 
 #: default_data.py:33
 msgid "I don't belong anywhere"
@@ -172,7 +172,7 @@ msgstr "Montrer le titre"
 
 #: drag_and_drop_v2.py:120
 msgid "Display the title to the learner?"
-msgstr "Afficher le titre à l&#39;apprenant ?"
+msgstr "Afficher le titre à l'apprenant ?"
 
 #: drag_and_drop_v2.py:127
 msgid "Problem text"
@@ -182,7 +182,7 @@ msgstr "Texte de l'exercice"
 msgid "The description of the problem or instructions shown to the learner."
 msgstr ""
 "La description de l'exercice ou les instructions présentées à "
-"l&#39;apprenant."
+"l'apprenant."
 
 #: drag_and_drop_v2.py:135
 msgid "Show \"Problem\" heading"
@@ -282,14 +282,14 @@ msgstr ""
 
 #: drag_and_drop_v2.py:190
 msgid "Maximum items per zone"
-msgstr "Nombre maximum d&#39;articles par zone"
+msgstr "Nombre maximum d'articles par zone"
 
 #: drag_and_drop_v2.py:191
 msgid ""
 "This setting limits the number of items that can be dropped into a single "
 "zone."
 msgstr ""
-"Ce paramètre limite le nombre d&#39;éléments pouvant être déposés dans une "
+"Ce paramètre limite le nombre d'éléments pouvant être déposés dans une "
 "seule zone."
 
 #: drag_and_drop_v2.py:198
@@ -330,7 +330,7 @@ msgstr ""
 msgid ""
 "Keeps maximum score achieved by student as a raw value between 0 and 1."
 msgstr ""
-"Conservez le score maximum obtenu par l&#39;apprenant sous forme de valeur "
+"Conservez le score maximum obtenu par l'apprenant sous forme de valeur "
 "brute comprise entre 0 et 1."
 
 #: drag_and_drop_v2.py:244
@@ -352,7 +352,7 @@ msgstr ""
 
 #: drag_and_drop_v2.py:648
 msgid "The answer is unavailable"
-msgstr "La réponse n&#39;est pas disponible"
+msgstr "La réponse n'est pas disponible"
 
 #: drag_and_drop_v2.py:789
 msgid "do_attempt handler should only be called for assessment mode"
@@ -389,7 +389,7 @@ msgstr "Commentaire final"
 
 #: templates/html/drag_and_drop_edit.html:100
 msgid "Explanation Text"
-msgstr "Texte d&#39;explication"
+msgstr "Texte d'explication"
 
 #: templates/html/drag_and_drop_edit.html:109
 msgid "Zones"
@@ -453,7 +453,7 @@ msgstr "Hauteur de la zone"
 
 #: templates/html/drag_and_drop_edit.html:178
 msgid "Size of a single zone in pixels."
-msgstr "Taille d&#39;une seule zone en pixels."
+msgstr "Taille d'une seule zone en pixels."
 
 #: templates/html/drag_and_drop_edit.html:181
 msgid "Generate image and zones"
@@ -469,7 +469,7 @@ msgstr "Étiquettes de zones"
 
 #: templates/html/drag_and_drop_edit.html:202
 msgid "Display label names on the image"
-msgstr "Afficher les noms des étiquettes sur l&#39;image"
+msgstr "Afficher les noms des étiquettes sur l'image"
 
 #: templates/html/drag_and_drop_edit.html:206
 msgid "Zone borders"
@@ -481,7 +481,7 @@ msgstr "Afficher les bordures de zone sur l'image"
 
 #: templates/html/drag_and_drop_edit.html:215
 msgid "Display zone borders when dragging an item"
-msgstr "Afficher les bordures de zone lors du déplacement d&#39;un élément"
+msgstr "Afficher les bordures de zone lors du déplacement d'un élément"
 
 #: templates/html/drag_and_drop_edit.html:220
 msgid "Zone definitions"
@@ -493,7 +493,7 @@ msgstr "Ajouter une zone"
 
 #: templates/html/drag_and_drop_edit.html:274
 msgid "Item definitions"
-msgstr "Définitions d&#39;éléments"
+msgstr "Définitions d'éléments"
 
 #: templates/html/drag_and_drop_edit.html:278
 msgid "Add an item"
@@ -547,20 +547,20 @@ msgid_plural ""
 "Misplaced {misplaced_count} items (misplaced items were returned to the item"
 " bank)"
 msgstr[0] ""
-"Objet {misplaced_count} égaré (l&#39;objet égaré a été renvoyé à la banque "
-"d&#39;articles)"
+"Objet {misplaced_count} égaré (l'objet égaré a été renvoyé à la banque "
+"d'articles)"
 msgstr[1] ""
 "Objets {misplaced_count} égarés (les objets égarés ont été retournés à la "
-"banque d&#39;objets)"
+"banque d'objets)"
 msgstr[2] ""
 "Objets {misplaced_count} égarés (les objets égarés ont été retournés à la "
-"banque d&#39;objets)"
+"banque d'objets)"
 
 #: utils.py:163
 #, python-brace-format
 msgid "Did not place {missing_count} required item"
 msgid_plural "Did not place {missing_count} required items"
-msgstr[0] "N&#39;a pas placé l&#39;élément requis {missing_count}"
+msgstr[0] "N'a pas placé l'élément requis {missing_count}"
 msgstr[1] "{missing_count} éléments requis n'ont pas été positionnés"
 msgstr[2] "{missing_count} éléments requis n'ont pas été positionnés"
 
@@ -768,7 +768,7 @@ msgstr "Exercice"
 
 #: public/js/drag_and_drop.js:687
 msgid "Item Bank"
-msgstr "Banque d&#39;articles"
+msgstr "Banque d'articles"
 
 #: public/js/drag_and_drop.js:732
 msgid "Drop Targets"
@@ -782,7 +782,7 @@ msgstr ""
 
 #: public/js/drag_and_drop.js:1387
 msgid "You cannot add any more items to this zone."
-msgstr "Vous ne pouvez plus ajouter d&#39;éléments à cette zone."
+msgstr "Vous ne pouvez plus ajouter d'éléments à cette zone."
 
 #: public/js/drag_and_drop_edit.js:123 public/js/drag_and_drop_edit.js:524
 #: public/js/drag_and_drop_edit.js:755

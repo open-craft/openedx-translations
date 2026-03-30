@@ -75,7 +75,7 @@
   "ora-grading.ReviewActions.loadNext": "Charger la prochaine réponse",
   "ora-grading.ReviewActions.navigationLabel": "{current} de {total}",
   "ora-grading.ReviewModal.loadErrorHeading": "Erreur lors du chargement des soumissions",
-  "ora-grading.ReviewModal.loadErrorMessage1": "Une erreur s&#39;est produite lors du chargement de cette réponse. Essayez de recharger cette réponse.",
+  "ora-grading.ReviewModal.loadErrorMessage1": "Une erreur s'est produite lors du chargement de cette réponse. Essayez de recharger cette réponse.",
   "ora-grading.ReviewModal.reloadSubmission": "Recharger la réponse",
   "ora-grading.ReviewModal.gradeNotSubmitted.heading": "La note n'est pas soumise",
   "ora-grading.ReviewModal.gradeNotSubmitted.Content": "Nous sommes désolés, une erreur s'est produite lorsque nous avons essayé de soumettre cette note. Veuillez réessayer.",

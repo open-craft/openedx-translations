@@ -27,7 +27,7 @@ msgid ""
 "enrollment."
 msgstr ""
 "Prévisualisez la page de consentement au partage de données rendue dans le "
-"contexte d&#39;une inscription à un cours."
+"contexte d'une inscription à un cours."
 
 #: consent/admin/__init__.py:110
 msgid ""
@@ -35,7 +35,7 @@ msgid ""
 "enrollment."
 msgstr ""
 "Prévisualisez la page de consentement au partage de données affichée dans le"
-" contexte d&#39;une inscription à un programme."
+" contexte d'une inscription à un programme."
 
 #: consent/admin/__init__.py:119 enterprise/admin/__init__.py:721
 msgid "Preview (course)"
@@ -47,7 +47,7 @@ msgstr "Aperçu (programme)"
 
 #: consent/models.py:213
 msgid "Name of the user whose consent state is stored."
-msgstr "Nom de l&#39;utilisateur dont l&#39;état de consentement est stocké."
+msgstr "Nom de l'utilisateur dont l'état de consentement est stocké."
 
 #: consent/models.py:215
 msgid "Whether consent is granted."
@@ -83,7 +83,7 @@ msgid ""
 msgstr ""
 "Remplissez un texte pour le premier paragraphe de la page. Les variables "
 "suivantes peuvent être disponibles :<br /><ul><li> "
-"Enterprise_customer_name : nom du client d&#39;entreprise.</li><li> "
+"Enterprise_customer_name : nom du client d'entreprise.</li><li> "
 "platform_name : Nom de la plateforme.</li><li> item : Une chaîne qui est « "
 "cours » ou « programme » selon le type de consentement.</li><li> "
 "course_title : titre du cours. Disponible lorsque le type de consentement "
@@ -102,7 +102,7 @@ msgid ""
 msgstr ""
 "Remplissez un texte pour le paragraphe de politique en bas de la page. Les "
 "variables suivantes peuvent être disponibles :<br /><ul><li> "
-"Enterprise_customer_name : nom du client d&#39;entreprise.</li><li> "
+"Enterprise_customer_name : nom du client d'entreprise.</li><li> "
 "platform_name : Nom de la plateforme.</li><li> item : Une chaîne qui est « "
 "cours » ou « programme » selon le type de consentement.</li><li> "
 "course_title : titre du cours. Disponible lorsque le type de consentement "
@@ -139,9 +139,9 @@ msgid ""
 "start date. Available when type of consent is course.</li></ul>"
 msgstr ""
 "Remplissez un texte pour la boîte de dialogue qui apparaît lorsque "
-"l&#39;utilisateur refuse de donner son consentement. Les variables suivantes"
+"l'utilisateur refuse de donner son consentement. Les variables suivantes"
 " peuvent être disponibles :<br /><ul><li> Enterprise_customer_name : nom du "
-"client d&#39;entreprise.</li><li> item : Une chaîne qui est « cours » ou « "
+"client d'entreprise.</li><li> item : Une chaîne qui est « cours » ou « "
 "programme » selon le type de consentement.</li><li> course_title : titre du "
 "cours. Disponible lorsque le type de consentement est bien sûr.</li><li> "
 "course_start_date : date de début du cours. Disponible lorsque le type de "
@@ -156,7 +156,7 @@ msgid ""
 "consent is course.</li></ul>"
 msgstr ""
 "Remplissez un texte pour le titre de la notification qui apparaît sur le "
-"tableau de bord lorsque l&#39;utilisateur refuse de donner son consentement."
+"tableau de bord lorsque l'utilisateur refuse de donner son consentement."
 " Les variables suivantes peuvent être disponibles :<br /><ul><li> "
 "Enterprise_customer_name : nom du client d’entreprise.</li><li> "
 "course_title : titre du cours. Disponible lorsque le type de consentement "
@@ -171,9 +171,9 @@ msgid ""
 "consent is course.</li></ul>"
 msgstr ""
 "Remplissez un texte pour le message de notification qui apparaît sur le "
-"tableau de bord lorsque l&#39;utilisateur refuse de donner son consentement."
+"tableau de bord lorsque l'utilisateur refuse de donner son consentement."
 " Les variables suivantes peuvent être disponibles :<br /><ul><li> "
-"Enterprise_customer_name : nom du client d&#39;entreprise.</li><li> "
+"Enterprise_customer_name : nom du client d'entreprise.</li><li> "
 "course_title : titre du cours. Disponible lorsque le type de consentement "
 "est bien sûr.</li></ul>"
 
@@ -183,11 +183,11 @@ msgstr "Titre de la page"
 
 #: consent/models.py:344
 msgid "Text next to agreement check mark"
-msgstr "Texte à côté de la coche de l&#39;accord"
+msgstr "Texte à côté de la coche de l'accord"
 
 #: consent/models.py:348
 msgid "Text of agree button"
-msgstr "Texte du bouton d&#39;accord"
+msgstr "Texte du bouton d'accord"
 
 #: consent/models.py:352
 msgid "Text of decline link"
@@ -202,8 +202,8 @@ msgid ""
 "Heading text of dialog box which appears when user decline to provide "
 "consent"
 msgstr ""
-"Texte d&#39;en-tête de la boîte de dialogue qui apparaît lorsque "
-"l&#39;utilisateur refuse de donner son consentement"
+"Texte d'en-tête de la boîte de dialogue qui apparaît lorsque "
+"l'utilisateur refuse de donner son consentement"
 
 #: consent/models.py:374
 msgid "Text of decline button on confirmation dialog box"
@@ -212,7 +212,7 @@ msgstr "Texte du bouton de refus dans la boîte de dialogue de confirmation"
 #: consent/models.py:378
 msgid "Text of abort decline link on confirmation dialog box"
 msgstr ""
-"Texte du lien de refus d&#39;abandon dans la boîte de dialogue de "
+"Texte du lien de refus d'abandon dans la boîte de dialogue de "
 "confirmation"
 
 #: consent/models.py:393
@@ -232,7 +232,7 @@ msgstr ""
 msgid ""
 "The base URL used for API requests to Canvas, i.e. https://instructure.com."
 msgstr ""
-"L&#39;URL de base utilisée pour les requêtes API vers Canvas, c&#39;est-à-"
+"L'URL de base utilisée pour les requêtes API vers Canvas, c'est-à-"
 "dire https://instructure.com."
 
 #: integrated_channels/canvas/models.py:128
@@ -240,8 +240,8 @@ msgid ""
 "The refresh token provided by Canvas along with the access token request, "
 "used to re-request the access tokens over multiple client sessions."
 msgstr ""
-"Le jeton d&#39;actualisation fourni par Canvas avec la demande de jeton "
-"d&#39;accès, utilisé pour demander à nouveau les jetons d&#39;accès sur "
+"Le jeton d'actualisation fourni par Canvas avec la demande de jeton "
+"d'accès, utilisé pour demander à nouveau les jetons d'accès sur "
 "plusieurs sessions client."
 
 #: integrated_channels/canvas/models.py:135
@@ -252,19 +252,19 @@ msgid ""
 "The maximum number of data items to transmit to the integrated channel with "
 "each request."
 msgstr ""
-"Le nombre maximum d&#39;éléments de données à transmettre au canal intégré à"
+"Le nombre maximum d'éléments de données à transmettre au canal intégré à"
 " chaque requête."
 
 #: integrated_channels/canvas/models.py:247
 msgid "The amount of points that the learner scored on the subsection."
 msgstr ""
-"Le nombre de points que l&#39;apprenant a marqués dans la sous-section."
+"Le nombre de points que l'apprenant a marqués dans la sous-section."
 
 #: integrated_channels/canvas/models.py:253
 msgid ""
 "The total amount of points that the learner could score on the subsection."
 msgstr ""
-"Le nombre total de points que l&#39;apprenant pourrait marquer dans la sous-"
+"Le nombre total de points que l'apprenant pourrait marquer dans la sous-"
 "section."
 
 #: integrated_channels/canvas/models.py:326
@@ -279,7 +279,7 @@ msgstr ""
 #: integrated_channels/cornerstone/models.py:39
 msgid "The API path for making completion POST requests to Cornerstone."
 msgstr ""
-"Le chemin de l&#39;API pour envoyer des requêtes POST d&#39;achèvement à "
+"Le chemin de l'API pour envoyer des requêtes POST d'achèvement à "
 "Cornerstone."
 
 #: integrated_channels/cornerstone/models.py:46
@@ -288,21 +288,21 @@ msgid ""
 "will be used to gain the OAuth access token which is required for other API "
 "calls."
 msgstr ""
-"Le chemin de l&#39;API pour envoyer des requêtes POST liées à OAuth à "
-"Cornerstone. Celui-ci sera utilisé pour obtenir le jeton d&#39;accès OAuth "
-"requis pour les autres appels d&#39;API."
+"Le chemin de l'API pour envoyer des requêtes POST liées à OAuth à "
+"Cornerstone. Celui-ci sera utilisé pour obtenir le jeton d'accès OAuth "
+"requis pour les autres appels d'API."
 
 #: integrated_channels/cornerstone/models.py:55
 msgid "Basic auth username for sending user completion status to cornerstone."
 msgstr ""
-"Nom d&#39;utilisateur d&#39;authentification de base pour envoyer le statut "
-"d&#39;achèvement de l&#39;utilisateur à la pierre angulaire."
+"Nom d'utilisateur d'authentification de base pour envoyer le statut "
+"d'achèvement de l'utilisateur à la pierre angulaire."
 
 #: integrated_channels/cornerstone/models.py:61
 msgid "Basic auth password for sending user completion status to cornerstone."
 msgstr ""
-"Mot de passe d&#39;authentification de base pour envoyer l&#39;état "
-"d&#39;achèvement de l&#39;utilisateur à la pierre angulaire."
+"Mot de passe d'authentification de base pour envoyer l'état "
+"d'achèvement de l'utilisateur à la pierre angulaire."
 
 #: integrated_channels/cornerstone/models.py:66
 msgid "Key/value mapping cornerstone subjects to edX subjects list"
@@ -318,16 +318,16 @@ msgid ""
 "The base URL used for API requests to Cornerstone, i.e. "
 "https://portalName.csod.com"
 msgstr ""
-"L&#39;URL de base utilisée pour les requêtes API adressées à Cornerstone, "
-"c&#39;est-à-dire https://portalName.csod.com"
+"L'URL de base utilisée pour les requêtes API adressées à Cornerstone, "
+"c'est-à-dire https://portalName.csod.com"
 
 #: integrated_channels/cornerstone/models.py:108
 msgid ""
 "The most current session token provided for authorization to make API calls "
 "to the customer's instance"
 msgstr ""
-"Le jeton de session le plus récent fourni pour l&#39;autorisation "
-"d&#39;effectuer des appels d&#39;API vers l&#39;instance du client"
+"Le jeton de session le plus récent fourni pour l'autorisation "
+"d'effectuer des appels d'API vers l'instance du client"
 
 #: integrated_channels/cornerstone/models.py:116
 msgid "Date time when session token was last provided"
@@ -342,12 +342,12 @@ msgstr "Si coché, les sujets ne seront pas envoyés à Cornerstone"
 #: integrated_channels/cornerstone/models.py:311
 msgid "This is the edX course key that is used as a unique identifier."
 msgstr ""
-"Il s&#39;agit de la clé du cours edX qui est utilisée comme identifiant "
+"Il s'agit de la clé du cours edX qui est utilisée comme identifiant "
 "unique."
 
 #: integrated_channels/cornerstone/models.py:318
 msgid "This is the course key that is being sent to our partners."
-msgstr "C&#39;est la clé de cours qui est envoyée à nos partenaires."
+msgstr "C'est la clé de cours qui est envoyée à nos partenaires."
 
 #: integrated_channels/integrated_channel/management/commands/__init__.py:67
 msgid ""
@@ -383,7 +383,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Remplacez les clés étrangères de l&#39;enregistrement d&#39;audit manquantes pour Cornerstone.\n"
+"Remplacez les clés étrangères de l'enregistrement d'audit manquantes pour Cornerstone.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/backfill_missing_foreign_keys.py:67
@@ -393,7 +393,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Remplacez les clés étrangères de l&#39;enregistrement d&#39;audit manquantes.\n"
+"Remplacez les clés étrangères de l'enregistrement d'audit manquantes.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/cleanup_duplicate_assignment_records.py:25
@@ -413,8 +413,8 @@ msgstr ""
 #: integrated_channels/integrated_channel/management/commands/transmit_subsection_learner_data.py:37
 msgid "Username of a user authorized to fetch grades from the LMS API."
 msgstr ""
-"Nom d&#39;utilisateur d&#39;un utilisateur autorisé à récupérer les notes de"
-" l&#39;API LMS."
+"Nom d'utilisateur d'un utilisateur autorisé à récupérer les notes de"
+" l'API LMS."
 
 #: integrated_channels/integrated_channel/management/commands/cleanup_duplicate_assignment_records.py:56
 #: integrated_channels/integrated_channel/management/commands/transmit_learner_data.py:51
@@ -423,7 +423,7 @@ msgstr ""
 #, python-brace-format
 msgid "A user with the username {username} was not found."
 msgstr ""
-"Un utilisateur portant le nom d&#39;utilisateur {username} est introuvable."
+"Un utilisateur portant le nom d'utilisateur {username} est introuvable."
 
 #: integrated_channels/integrated_channel/management/commands/remove_duplicate_learner_transmission_audit_records.py:21
 #: integrated_channels/integrated_channel/management/commands/transmit_learner_data.py:23
@@ -443,7 +443,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Cette commande de gestion supprime les enregistrements du modèle IntegratedChannelAPIRequestLogs datant de plus d&#39;un mois.\n"
+"Cette commande de gestion supprime les enregistrements du modèle IntegratedChannelAPIRequestLogs datant de plus d'un mois.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/reset_sapsf_learner_transmissions.py:19
@@ -453,7 +453,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Réinitialisez les transmissions de l&#39;apprenant SAPSF pour l&#39;EnterpriseCustomer et le Channel donnés entre deux dates.\n"
+"Réinitialisez les transmissions de l'apprenant SAPSF pour l'EnterpriseCustomer et le Channel donnés entre deux dates.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/reset_sapsf_learner_transmissions.py:31
@@ -486,8 +486,8 @@ msgstr "Client Entreprise associé à la configuration."
 #: integrated_channels/integrated_channel/models.py:130
 msgid "If provided, will be used as IDP slug to locate remote id for learners"
 msgstr ""
-"S&#39;il est fourni, sera utilisé comme slug IDP pour localiser "
-"l&#39;identifiant distant des apprenants"
+"S'il est fourni, sera utilisé comme slug IDP pour localiser "
+"l'identifiant distant des apprenants"
 
 #: integrated_channels/integrated_channel/models.py:136
 #: integrated_channels/xapi/models.py:40
@@ -508,7 +508,7 @@ msgid ""
 "Enterprise channel worker username to get JWT tokens for authenticating LMS "
 "APIs."
 msgstr ""
-"Nom d&#39;utilisateur du travailleur de canal d&#39;entreprise pour obtenir "
+"Nom d'utilisateur du travailleur de canal d'entreprise pour obtenir "
 "des jetons JWT pour authentifier les API LMS."
 
 #: integrated_channels/integrated_channel/models.py:168
@@ -519,7 +519,7 @@ msgid ""
 " newest catalog."
 msgstr ""
 "Une liste d’UUID de catalogue séparés par des virgules à transmettre. Si "
-"vide, tous les catalogues clients seront transmis. S&#39;il y a des cours "
+"vide, tous les catalogues clients seront transmis. S'il y a des cours "
 "qui se chevauchent dans les catalogues clients, les métadonnées des cours "
 "qui se chevauchent seront sélectionnées dans le catalogue le plus récent."
 
@@ -528,31 +528,31 @@ msgid ""
 "When set to True, the configured customer will no longer receive learner "
 "data transmissions, both scheduled and signal based"
 msgstr ""
-"Lorsqu&#39;il est défini sur True, le client configuré ne recevra plus de "
-"transmissions de données de l&#39;apprenant, qu&#39;elles soient planifiées "
+"Lorsqu'il est défini sur True, le client configuré ne recevra plus de "
+"transmissions de données de l'apprenant, qu'elles soient planifiées "
 "ou basées sur un signal."
 
 #: integrated_channels/integrated_channel/models.py:537
 #: integrated_channels/integrated_channel/models.py:718
 msgid "Data pertaining to the transmissions API request response."
 msgstr ""
-"Données relatives à la réponse à la demande d&#39;API de transmission."
+"Données relatives à la réponse à la demande d'API de transmission."
 
 #: integrated_channels/moodle/admin/__init__.py:31
 msgid "Cannot set both a Username/Password and Token"
 msgstr ""
-"Impossible de définir à la fois un nom d&#39;utilisateur/mot de passe et un "
+"Impossible de définir à la fois un nom d'utilisateur/mot de passe et un "
 "jeton"
 
 #: integrated_channels/moodle/admin/__init__.py:33
 msgid "Must set both a Username and Password, not just one"
 msgstr ""
-"Doit définir à la fois un nom d&#39;utilisateur et un mot de passe, pas un "
+"Doit définir à la fois un nom d'utilisateur et un mot de passe, pas un "
 "seul"
 
 #: integrated_channels/moodle/models.py:38
 msgid "The base URL used for API requests to Moodle"
-msgstr "L&#39;URL de base utilisée pour les requêtes API vers Moodle"
+msgstr "L'URL de base utilisée pour les requêtes API vers Moodle"
 
 #: integrated_channels/moodle/models.py:46
 msgid "The short name for the Moodle webservice."
@@ -560,14 +560,14 @@ msgstr "Le nom court du service Web Moodle."
 
 #: integrated_channels/moodle/models.py:55
 msgid "The category ID for what edX courses should be associated with."
-msgstr "L&#39;ID de catégorie à laquelle les cours edX doivent être associés."
+msgstr "L'ID de catégorie à laquelle les cours edX doivent être associés."
 
 #: integrated_channels/moodle/models.py:64
 msgid ""
 "The encrypted API user's username used to obtain new tokens. It will be "
 "encrypted when stored in the database."
 msgstr ""
-"Nom d&#39;utilisateur de l&#39;utilisateur de l&#39;API chiffré utilisé pour"
+"Nom d'utilisateur de l'utilisateur de l'API chiffré utilisé pour"
 " obtenir de nouveaux jetons. Il sera crypté une fois stocké dans la base de "
 "données."
 
@@ -576,7 +576,7 @@ msgid ""
 "The encrypted API user's password used to obtain new tokens. It will be "
 "encrypted when stored in the database."
 msgstr ""
-"Le mot de passe crypté de l&#39;utilisateur de l&#39;API utilisé pour "
+"Le mot de passe crypté de l'utilisateur de l'API utilisé pour "
 "obtenir de nouveaux jetons. Il sera crypté une fois stocké dans la base de "
 "données."
 
@@ -594,15 +594,15 @@ msgstr "La note maximale pour les cours. Par défaut : 100"
 
 #: integrated_channels/moodle/models.py:177
 msgid "The name for the grade assigment created for the grade integration."
-msgstr "Nom du devoir de note créé pour l&#39;intégration de notes."
+msgstr "Nom du devoir de note créé pour l'intégration de notes."
 
 #: integrated_channels/moodle/models.py:182
 msgid ""
 "When set to True, the configured customer will receive learner data "
 "transmissions, for incomplete courses as well"
 msgstr ""
-"Lorsqu&#39;il est défini sur True, le client configuré recevra des "
-"transmissions de données sur l&#39;apprenant, également pour les cours "
+"Lorsqu'il est défini sur True, le client configuré recevra des "
+"transmissions de données sur l'apprenant, également pour les cours "
 "incomplets"
 
 #: integrated_channels/sap_success_factors/exporters/content_metadata.py:223
@@ -633,7 +633,7 @@ msgstr "URL de base de l’API des facteurs de réussite."
 
 #: integrated_channels/sap_success_factors/models.py:124
 msgid "Success factors company identifier."
-msgstr "Identifiant de l&#39;entreprise des facteurs de succès."
+msgstr "Identifiant de l'entreprise des facteurs de succès."
 
 #: integrated_channels/sap_success_factors/models.py:131
 msgid "Success factors user identifier."
@@ -649,7 +649,7 @@ msgstr ""
 
 #: integrated_channels/sap_success_factors/models.py:173
 msgid "Type of SAP User (admin or user)."
-msgstr "Type d&#39;utilisateur SAP (administrateur ou utilisateur)."
+msgstr "Type d'utilisateur SAP (administrateur ou utilisateur)."
 
 #: integrated_channels/sap_success_factors/models.py:179
 msgid "A comma-separated list of additional locales."
@@ -658,12 +658,12 @@ msgstr ""
 
 #: integrated_channels/sap_success_factors/models.py:183
 msgid "Transmit Total Hours"
-msgstr "Transmettre le nombre total d&#39;heures"
+msgstr "Transmettre le nombre total d'heures"
 
 #: integrated_channels/sap_success_factors/models.py:184
 msgid "Include totalHours in the transmitted completion data"
 msgstr ""
-"Inclure le total des heures dans les données d&#39;achèvement transmises"
+"Inclure le total des heures dans les données d'achèvement transmises"
 
 #: integrated_channels/sap_success_factors/models.py:189
 msgid ""
@@ -671,9 +671,9 @@ msgid ""
 "('sapsf_user_id') defined in the SAP Customer Configuration for course "
 "completion."
 msgstr ""
-"Lorsqu&#39;elle est définie sur True, l&#39;intégration utilisera "
-"l&#39;utilisateur du service edX générique (« sapsf_user_id ») défini dans "
-"la configuration client SAP pour l&#39;achèvement du cours."
+"Lorsqu'elle est définie sur True, l'intégration utilisera "
+"l'utilisateur du service edX générique (« sapsf_user_id ») défini dans "
+"la configuration client SAP pour l'achèvement du cours."
 
 #: integrated_channels/xapi/models.py:33
 msgid "Version of xAPI."
@@ -695,7 +695,7 @@ msgstr "secret de xAPI LRS."
 msgid ""
 "Preview the HTML template rendered in the context of a course enrollment."
 msgstr ""
-"Prévisualisez le modèle HTML rendu dans le contexte d&#39;une inscription à "
+"Prévisualisez le modèle HTML rendu dans le contexte d'une inscription à "
 "un cours."
 
 #: enterprise/admin/__init__.py:725
@@ -709,7 +709,7 @@ msgstr ""
 msgid "To add a single learner, enter an email address or username."
 msgstr ""
 "Pour ajouter un seul apprenant, saisissez une adresse e-mail ou un nom "
-"d&#39;utilisateur."
+"d'utilisateur."
 
 #: enterprise/admin/forms.py:56
 msgid ""
@@ -717,7 +717,7 @@ msgid ""
 " addresses."
 msgstr ""
 "Pour ajouter plusieurs apprenants, téléchargez un fichier .csv contenant une"
-" colonne d&#39;adresses e-mail."
+" colonne d'adresses e-mail."
 
 #: enterprise/admin/forms.py:61
 msgid ""
@@ -726,10 +726,10 @@ msgid ""
 "column of course run keys, indicated by the heading 'course_id' in the first"
 " row, to enroll learners in multiple courses."
 msgstr ""
-"Le fichier .csv doit comporter une colonne d&#39;adresses e-mail, indiquée "
-"par l&#39;en-tête « email » dans la première ligne. Facultativement, le "
-"fichier .csv peut contenir une colonne de clés d&#39;exécution de cours, "
-"indiquées par l&#39;en-tête « course_id » dans la première ligne, pour "
+"Le fichier .csv doit comporter une colonne d'adresses e-mail, indiquée "
+"par l'en-tête « email » dans la première ligne. Facultativement, le "
+"fichier .csv peut contenir une colonne de clés d'exécution de cours, "
+"indiquées par l'en-tête « course_id » dans la première ligne, pour "
 "inscrire les apprenants à plusieurs cours."
 
 #: enterprise/admin/forms.py:68
@@ -743,7 +743,7 @@ msgstr ""
 
 #: enterprise/admin/forms.py:72
 msgid "Course enrollment track"
-msgstr "Parcours d&#39;inscription aux cours"
+msgstr "Parcours d'inscription aux cours"
 
 #: enterprise/admin/forms.py:74 enterprise/api/v1/serializers.py:1634
 msgid "Audit"
@@ -759,7 +759,7 @@ msgstr "Formation professionnelle"
 
 #: enterprise/admin/forms.py:77 enterprise/api/v1/serializers.py:1637
 msgid "Professional Education (no ID)"
-msgstr "Formation professionnelle (pas de pièce d&#39;identité)"
+msgstr "Formation professionnelle (pas de pièce d'identité)"
 
 #: enterprise/admin/forms.py:78 enterprise/api/v1/serializers.py:1638
 msgid "Credit"
@@ -783,7 +783,7 @@ msgstr "ID d’opportunité Salesforce"
 
 #: enterprise/admin/forms.py:86
 msgid "Discount percentage for manual enrollment"
-msgstr "Pourcentage de réduction pour l&#39;inscription manuelle"
+msgstr "Pourcentage de réduction pour l'inscription manuelle"
 
 #: enterprise/admin/forms.py:87
 msgid "Discount percentage should be from 0 to 100"
@@ -803,11 +803,11 @@ msgstr "Ne pas avertir"
 
 #: enterprise/admin/forms.py:310
 msgid "Email/Username"
-msgstr "E-mail/Nom d&#39;utilisateur"
+msgstr "E-mail/Nom d'utilisateur"
 
 #: enterprise/admin/forms.py:311
 msgid "Enter an email address or username."
-msgstr "Saisissez une adresse e-mail ou un nom d&#39;utilisateur."
+msgstr "Saisissez une adresse e-mail ou un nom d'utilisateur."
 
 #: enterprise/admin/forms.py:315
 msgid "Course"
@@ -815,7 +815,7 @@ msgstr "Cours"
 
 #: enterprise/admin/forms.py:316
 msgid "Enter the course run key."
-msgstr "Entrez la clé d&#39;exécution du cours."
+msgstr "Entrez la clé d'exécution du cours."
 
 #: enterprise/admin/forms.py:436
 msgid "Preview"
@@ -829,14 +829,14 @@ msgstr ""
 
 #: enterprise/admin/forms.py:500
 msgid "Identity Provider"
-msgstr "Fournisseur d&#39;identité"
+msgstr "Fournisseur d'identité"
 
 #: enterprise/admin/forms.py:524
 msgid ""
 "The specified Identity Provider does not exist. For more information, "
 "contact a system administrator."
 msgstr ""
-"Le fournisseur d&#39;identité spécifié n&#39;existe pas. Pour plus "
+"Le fournisseur d'identité spécifié n'existe pas. Pour plus "
 "d’informations, contactez un administrateur système."
 
 #: enterprise/admin/forms.py:535
@@ -848,11 +848,11 @@ msgid ""
 "has a domain of '{identity_provider_site}', or update the identity provider "
 "to '{enterprise_customer_site}'."
 msgstr ""
-"Le site du fournisseur d&#39;identité sélectionné ( {identity_provider_site}"
+"Le site du fournisseur d'identité sélectionné ( {identity_provider_site}"
 " ) ne correspond pas au site de ce client entreprise ( "
 "{enterprise_customer_site} ). Pour corriger ce problème, sélectionnez un "
 "site dont le domaine est « {identity_provider_site} » ou mettez à jour le "
-"fournisseur d&#39;identité vers « {enterprise_customer_site} »."
+"fournisseur d'identité vers « {enterprise_customer_site} »."
 
 #: enterprise/admin/forms.py:613
 #, python-brace-format
@@ -860,8 +860,8 @@ msgid ""
 "\"{data_type}\" data type is not supported for enterprise customer "
 "\"{enterprise_customer.name}\". Please select a different data type."
 msgstr ""
-"Le type de données « {data_type} » n&#39;est pas pris en charge pour le "
-"client d&#39;entreprise « {enterprise_customer.name} ». Veuillez "
+"Le type de données « {data_type} » n'est pas pris en charge pour le "
+"client d'entreprise « {enterprise_customer.name} ». Veuillez "
 "sélectionner un autre type de données."
 
 #: enterprise/admin/forms.py:630
@@ -870,7 +870,7 @@ msgid ""
 "These catalogs for reporting do not match enterprisecustomer "
 "{enterprise_customer}: {invalid_catalogs}"
 msgstr ""
-"Ces catalogues de reporting ne correspondent pas au client d&#39;entreprise "
+"Ces catalogues de reporting ne correspondent pas au client d'entreprise "
 "{enterprise_customer} : {invalid_catalogs}"
 
 #: enterprise/admin/forms.py:654
@@ -883,8 +883,8 @@ msgid ""
 "User specified is not linked to an active Enterprise Customer. Select "
 "`Applies to all contexts` or choose a different user."
 msgstr ""
-"L&#39;utilisateur spécifié n&#39;est pas lié à un client Entreprise actif. "
-"Sélectionnez « S&#39;applique à tous les contextes » ou choisissez un autre "
+"L'utilisateur spécifié n'est pas lié à un client Entreprise actif. "
+"Sélectionnez « S'applique à tous les contextes » ou choisissez un autre "
 "utilisateur."
 
 #: enterprise/admin/forms.py:783
@@ -899,7 +899,7 @@ msgstr ""
 msgid "Successfully requested the Data Sharing consent from learner."
 msgstr ""
 "Demande réussie de consentement au partage de données auprès de "
-"l&#39;apprenant."
+"l'apprenant."
 
 #: enterprise/admin/views.py:478
 #, python-brace-format
@@ -931,7 +931,7 @@ msgid ""
 "{list_of_emails}"
 msgstr ""
 "Les apprenants suivants sont déjà associés à un autre client Entreprise. Ces"
-" apprenants n&#39;ont pas été ajoutés à {enterprise_customer_name} : "
+" apprenants n'ont pas été ajoutés à {enterprise_customer_name} : "
 "{list_of_emails}"
 
 #: enterprise/admin/views.py:514
@@ -939,7 +939,7 @@ msgstr ""
 msgid ""
 "The following duplicate email addresses were not added: {list_of_emails}"
 msgstr ""
-"Les adresses e-mail en double suivantes n&#39;ont pas été ajoutées : "
+"Les adresses e-mail en double suivantes n'ont pas été ajoutées : "
 "{list_of_emails}"
 
 #: enterprise/admin/views.py:557
@@ -952,7 +952,7 @@ msgstr "Erreur à la ligne {line} : {message}\n"
 msgid "{enrolled_count} learner was enrolled in {enrolled_in}."
 msgid_plural "{enrolled_count} learners were enrolled in {enrolled_in}."
 msgstr[0] ""
-"L&#39;apprenant {enrolled_count} était inscrit dans {enrolled_in} ."
+"L'apprenant {enrolled_count} était inscrit dans {enrolled_in} ."
 msgstr[1] ""
 "Les apprenants {enrolled_count} étaient inscrits dans {enrolled_in} ."
 msgstr[2] ""
@@ -963,7 +963,7 @@ msgstr[2] ""
 msgid ""
 "The following learners could not be enrolled in {enrolled_in}: {user_list}"
 msgstr ""
-"Les apprenants suivants n&#39;ont pas pu être inscrits à {enrolled_in} : "
+"Les apprenants suivants n'ont pas pu être inscrits à {enrolled_in} : "
 "{user_list}"
 
 #: enterprise/admin/views.py:680
@@ -973,8 +973,8 @@ msgid ""
 "not been enrolled in {enrolled_in}. When these learners create an account, "
 "they will be enrolled automatically: {pending_email_list}"
 msgstr ""
-"Les apprenants suivants n&#39;ont pas de compte sur {platform_name} . Ils "
-"n&#39;ont pas été inscrits en {enrolled_in} . Lorsque ces apprenants "
+"Les apprenants suivants n'ont pas de compte sur {platform_name} . Ils "
+"n'ont pas été inscrits en {enrolled_in} . Lorsque ces apprenants "
 "créeront un compte, ils seront inscrits automatiquement : "
 "{pending_email_list}"
 
@@ -982,7 +982,7 @@ msgstr ""
 #, python-brace-format
 msgid "Email {email} is not associated with Enterprise Customer {ec_name}"
 msgstr ""
-"L&#39;e-mail {email} n&#39;est pas associé au client Entreprise {ec_name}"
+"L'e-mail {email} n'est pas associé au client Entreprise {ec_name}"
 
 #: enterprise/admin/views.py:983
 msgid ""
@@ -1033,7 +1033,7 @@ msgstr ""
 
 #: enterprise/api/v1/serializers.py:95
 msgid "Total count of items."
-msgstr "Nombre total d&#39;éléments."
+msgstr "Nombre total d'éléments."
 
 #: enterprise/api/v1/serializers.py:96
 msgid "URL to fetch next page of items."
@@ -1045,7 +1045,7 @@ msgstr "URL pour récupérer la page précédente des éléments."
 
 #: enterprise/api/v1/serializers.py:98
 msgid "List of items."
-msgstr "Liste d&#39;objets."
+msgstr "Liste d'objets."
 
 #: enterprise/api/v1/views/coupon_codes.py:96
 #, python-brace-format
@@ -1059,7 +1059,7 @@ msgid ""
 "{token_cs_email}, UserEmail: {token_email}, EnterpriseName: "
 "{token_enterprise_name}"
 msgstr ""
-"[API Enterprise] Échec de l&#39;envoi d&#39;un e-mail au support. "
+"[API Enterprise] Échec de l'envoi d'un e-mail au support. "
 "SupportEmail : {token_cs_email} , UserEmail : {token_email} , "
 "EnterpriseName : {token_enterprise_name}"
 
@@ -1115,13 +1115,13 @@ msgid ""
 "To parse a Catalog API response, this package must be installed in an Open "
 "edX environment."
 msgstr ""
-"Pour analyser une réponse de l&#39;API Catalog, ce package doit être "
+"Pour analyser une réponse de l'API Catalog, ce package doit être "
 "installé dans un environnement Open edX."
 
 #: enterprise/api_client/discovery.py:410
 msgid "The configured CatalogIntegration service user does not exist."
 msgstr ""
-"L&#39;utilisateur du service CatalogIntegration configuré n&#39;existe pas."
+"L'utilisateur du service CatalogIntegration configuré n'existe pas."
 
 #: enterprise/api_client/discovery.py:413
 msgid "There is no active CatalogIntegration."
@@ -1142,9 +1142,9 @@ msgid ""
 " you must first consent to share your learning achievements with "
 "{enterprise_customer_name}."
 msgstr ""
-"Pour vous connecter à l&#39;aide de ce fournisseur d&#39;identité SSO et "
-"accéder aux offres de cours spéciales, vous devez d&#39;abord consentir à "
-"partager vos acquis d&#39;apprentissage avec {enterprise_customer_name} ."
+"Pour vous connecter à l'aide de ce fournisseur d'identité SSO et "
+"accéder aux offres de cours spéciales, vous devez d'abord consentir à "
+"partager vos acquis d'apprentissage avec {enterprise_customer_name} ."
 
 #: enterprise/constants.py:18
 #, python-brace-format
@@ -1161,7 +1161,7 @@ msgid ""
 "If you do not consent to share your course data, that information may be "
 "shared with {enterprise_customer_name}."
 msgstr ""
-"Si vous n&#39;acceptez pas de partager vos données de cours, ces "
+"Si vous n'acceptez pas de partager vos données de cours, ces "
 "informations peuvent être partagées avec {enterprise_customer_name} ."
 
 #: enterprise/constants.py:25
@@ -1182,8 +1182,8 @@ msgid ""
 msgstr ""
 "Vous avez quitté le site {strong_start} {enterprise_customer_name} "
 "{strong_end} et êtes désormais sur le site {platform_name} . "
-"{enterprise_customer_name} s&#39;est associé à {platform_name} pour vous "
-"proposer des programmes d&#39;apprentissage de haute qualité et toujours "
+"{enterprise_customer_name} s'est associé à {platform_name} pour vous "
+"proposer des programmes d'apprentissage de haute qualité et toujours "
 "disponibles pour vous aider à faire progresser vos connaissances et votre "
 "carrière. {line_break} Veuillez noter que {platform_name} a une politique de"
 " confidentialité {privacy_policy_link_start} {privacy_policy_link_end} "
@@ -1200,7 +1200,7 @@ msgstr ""
 "créés par les meilleures universités et reconnus par les entreprises. Les "
 "programmes MicroMasters sont éligibles à des crédits, fournissent des "
 "connaissances recherchées et peuvent être appliqués pour accélérer "
-"l&#39;obtention d&#39;un master."
+"l'obtention d'un master."
 
 #: enterprise/constants.py:94
 msgid ""
@@ -1209,9 +1209,9 @@ msgid ""
 " employers are looking for with specialized training and professional "
 "education."
 msgstr ""
-"Conçus par des leaders de l&#39;industrie et des universités de premier plan"
+"Conçus par des leaders de l'industrie et des universités de premier plan"
 " pour améliorer les compétences professionnelles, les certificats "
-"professionnels développent les compétences et l&#39;expertise recherchées "
+"professionnels développent les compétences et l'expertise recherchées "
 "par les employeurs grâce à une formation spécialisée et à une formation "
 "professionnelle."
 
@@ -1233,13 +1233,13 @@ msgid ""
 "will use to sign up for courses. If you want to change organizations, sign "
 "out and sign back in."
 msgstr ""
-"Vous avez accès à plusieurs organisations. Sélectionnez l&#39;organisation "
+"Vous avez accès à plusieurs organisations. Sélectionnez l'organisation "
 "que vous utiliserez pour vous inscrire aux cours. Si vous souhaitez changer "
-"d&#39;organisation, déconnectez-vous et reconnectez-vous."
+"d'organisation, déconnectez-vous et reconnectez-vous."
 
 #: enterprise/forms.py:18
 msgid "Enter the organization name"
-msgstr "Entrez le nom de l&#39;organisation"
+msgstr "Entrez le nom de l'organisation"
 
 #: enterprise/forms.py:20
 msgid ""
@@ -1254,7 +1254,7 @@ msgid ""
 "The attempt to login with this organization name was not successful. Please "
 "try again, or contact our support."
 msgstr ""
-"La tentative de connexion avec ce nom d&#39;organisation a échoué. Veuillez "
+"La tentative de connexion avec ce nom d'organisation a échoué. Veuillez "
 "réessayer ou contacter notre support."
 
 #: enterprise/forms.py:60
@@ -1268,7 +1268,7 @@ msgstr "Mauvaise entreprise"
 #: enterprise/management/commands/migrate_enterprise_catalogs.py:30
 msgid "Username of a user authorized to access the Enterprise Catalog API."
 msgstr ""
-"Nom d&#39;utilisateur d&#39;un utilisateur autorisé à accéder à l&#39;API "
+"Nom d'utilisateur d'un utilisateur autorisé à accéder à l'API "
 "Enterprise Catalog."
 
 #: enterprise/management/commands/migrate_enterprise_catalogs.py:36
@@ -1284,7 +1284,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Définir l&#39;état d&#39;erreur pour les configurations.\n"
+"Définir l'état d'erreur pour les configurations.\n"
 "    "
 
 #: enterprise/messages.py:24
@@ -1296,7 +1296,7 @@ msgid ""
 "{enterprise_customer_name}, or contact {link_start}{platform_name} "
 "support{link_end}.{span_end}"
 msgstr ""
-"{strong_start} Nous n&#39;avons pas pu vous inscrire au {em_start} {item} "
+"{strong_start} Nous n'avons pas pu vous inscrire au {em_start} {item} "
 "{em_end} . {strong_end} {span_start} Si vous avez des questions ou des "
 "préoccupations concernant le partage de vos données, veuillez contacter "
 "votre responsable de formation au {enterprise_customer_name} , ou contacter "
@@ -1310,7 +1310,7 @@ msgid ""
 "these issues, please contact {link_start}{platform_name} "
 "support{link_end}.{span_end}"
 msgstr ""
-"{strong_start} Nous n&#39;avons pas pu recueillir d&#39;informations sur les"
+"{strong_start} Nous n'avons pas pu recueillir d'informations sur les"
 " prix pour {em_start} {item} {em_end} . {strong_end} {span_start} Si vous "
 "continuez à rencontrer ces problèmes, veuillez contacter {link_start} "
 "{platform_name} support {link_end} . {span_end}"
@@ -1322,8 +1322,8 @@ msgid ""
 " currently open to new learners. Please start over and select a different "
 "{item}.{span_end}"
 msgstr ""
-"{strong_start} Quelque chose s&#39;est produit. {strong_end} {span_start} Ce"
-" {item} n&#39;est actuellement pas ouvert aux nouveaux apprenants. Veuillez "
+"{strong_start} Quelque chose s'est produit. {strong_end} {span_start} Ce"
+" {item} n'est actuellement pas ouvert aux nouveaux apprenants. Veuillez "
 "recommencer et sélectionner un autre {item} . {span_end}"
 
 #: enterprise/messages.py:111
@@ -1334,10 +1334,10 @@ msgid ""
 "be able to help you out.{span_end}{span_start}Error code: "
 "{error_code}{span_end}{span_start}Username: {username}{span_end}"
 msgstr ""
-"{strong_start} Quelque chose s&#39;est produit. {strong_end} {span_start} "
-"Veuillez contacter votre administrateur d&#39;apprentissage avec le code "
-"d&#39;erreur suivant et il pourra vous aider. {span_end} {span_start} Code "
-"d&#39;erreur : {error_code} {span_end} {span_start} Nom d&#39;utilisateur : "
+"{strong_start} Quelque chose s'est produit. {strong_end} {span_start} "
+"Veuillez contacter votre administrateur d'apprentissage avec le code "
+"d'erreur suivant et il pourra vous aider. {span_end} {span_start} Code "
+"d'erreur : {error_code} {span_end} {span_start} Nom d'utilisateur : "
 "{username} {span_end}"
 
 #: enterprise/models.py:147
@@ -1346,19 +1346,19 @@ msgstr "Type de client entreprise"
 
 #: enterprise/models.py:148
 msgid "Enterprise Customer Types"
-msgstr "Types de clients d&#39;entreprise"
+msgstr "Types de clients d'entreprise"
 
 #: enterprise/models.py:155
 msgid "Specifies enterprise customer type."
-msgstr "Spécifie le type de client d&#39;entreprise."
+msgstr "Spécifie le type de client d'entreprise."
 
 #: enterprise/models.py:215 enterprise/models.py:3405
 msgid "Enterprise Customer"
-msgstr "Client d&#39;entreprise"
+msgstr "Client d'entreprise"
 
 #: enterprise/models.py:216
 msgid "Enterprise Customers"
-msgstr "Clients d&#39;entreprise"
+msgstr "Clients d'entreprise"
 
 #: enterprise/models.py:223
 msgid "Enterprise Customer name."
@@ -1376,9 +1376,9 @@ msgid ""
 "course. If left unchecked, the prompt will not appear and relevant data will"
 " not be shared."
 msgstr ""
-"Permet d&#39;inviter les apprenants à donner leur consentement au partage de"
-" données à chaque fois qu&#39;ils s&#39;inscrivent à un cours. Si cette case"
-" n&#39;est pas cochée, l&#39;invite n&#39;apparaîtra pas et les données "
+"Permet d'inviter les apprenants à donner leur consentement au partage de"
+" données à chaque fois qu'ils s'inscrivent à un cours. Si cette case"
+" n'est pas cochée, l'invite n'apparaîtra pas et les données "
 "pertinentes ne seront pas partagées."
 
 #: enterprise/models.py:278
@@ -1386,8 +1386,8 @@ msgid ""
 "Setting to either require learners to accept data sharing consent at course "
 "enrollment, or through an external process."
 msgstr ""
-"Paramètre permettant soit d&#39;exiger que les apprenants acceptent le "
-"consentement au partage de données lors de l&#39;inscription au cours, soit "
+"Paramètre permettant soit d'exiger que les apprenants acceptent le "
+"consentement au partage de données lors de l'inscription au cours, soit "
 "via un processus externe."
 
 #: enterprise/models.py:287
@@ -1395,23 +1395,23 @@ msgid ""
 "Allows learners enrolling through learning platforms to select the audit "
 "track."
 msgstr ""
-"Permet aux apprenants qui s&#39;inscrivent via des plateformes "
-"d&#39;apprentissage de sélectionner la piste d&#39;audit."
+"Permet aux apprenants qui s'inscrivent via des plateformes "
+"d'apprentissage de sélectionner la piste d'audit."
 
 #: enterprise/models.py:295
 msgid ""
 "Enables transmission of audit enrollment data from learning platform "
 "learners."
 msgstr ""
-"Permet la transmission des données d&#39;inscription à l&#39;audit des "
-"apprenants de la plateforme d&#39;apprentissage."
+"Permet la transmission des données d'inscription à l'audit des "
+"apprenants de la plateforme d'apprentissage."
 
 #: enterprise/models.py:303
 msgid ""
 "Specifies whether to replace the display of potentially sensitive SSO "
 "usernames with a more generic name, e.g. EnterpriseLearner."
 msgstr ""
-"Spécifie s&#39;il faut remplacer l&#39;affichage des noms d&#39;utilisateur "
+"Spécifie s'il faut remplacer l'affichage des noms d'utilisateur "
 "SSO potentiellement sensibles par un nom plus générique, par exemple "
 "EnterpriseLearner."
 
@@ -1436,11 +1436,11 @@ msgid ""
 "signaling the expiration (and loss of usability) itself will still appear."
 msgstr ""
 "Si cette case est cochée, les apprenants et les administrateurs ne recevront"
-" pas de notifications avant la date d&#39;expiration des plans de crédit "
+" pas de notifications avant la date d'expiration des plans de crédit "
 "pour apprenants. Cela inclut la suppression de la date d’expiration de la "
 "case de subvention pour les expirations à venir. La boîte de résumé des "
-"subventions ne s’affichera pas pour les forfaits expirés. D&#39;autres "
-"notifications signalant l&#39;expiration (et la perte d&#39;utilisabilité) "
+"subventions ne s’affichera pas pour les forfaits expirés. D'autres "
+"notifications signalant l'expiration (et la perte d'utilisabilité) "
 "elle-même apparaîtront toujours."
 
 #: enterprise/models.py:341
@@ -1456,16 +1456,16 @@ msgid ""
 "Enables the Single Sign On (SSO) configuration screen on the administrator "
 "portal. "
 msgstr ""
-"Active l&#39;écran de configuration de l&#39;authentification unique (SSO) "
-"sur le portail de l&#39;administrateur. "
+"Active l'écran de configuration de l'authentification unique (SSO) "
+"sur le portail de l'administrateur. "
 
 #: enterprise/models.py:367
 msgid ""
 "Automatically enabled. If unchecked, learners won't have access to the "
 "learner portal."
 msgstr ""
-"Activé automatiquement. Si cette case n&#39;est pas cochée, les apprenants "
-"n&#39;auront pas accès au portail des apprenants."
+"Activé automatiquement. Si cette case n'est pas cochée, les apprenants "
+"n'auront pas accès au portail des apprenants."
 
 #: enterprise/models.py:373
 msgid ""
@@ -1473,7 +1473,7 @@ msgid ""
 "learner portal. This only applies to customers with “offers”, the old "
 "version of learner credit."
 msgstr ""
-"Spécifie si les offres d&#39;entreprise seront portées à la connaissance des"
+"Spécifie si les offres d'entreprise seront portées à la connaissance des"
 " apprenants sur le portail des apprenants. Cela ne s’applique qu’aux clients"
 " bénéficiant des « offres », l’ancienne version du crédit apprenant."
 
@@ -1491,14 +1491,14 @@ msgid ""
 " integration). "
 msgstr ""
 "Masque les données du marché du travail aux apprenants (remplies par des "
-"fonctionnalités utilisant l&#39;intégration Lightcast). "
+"fonctionnalités utilisant l'intégration Lightcast). "
 
 #: enterprise/models.py:398
 msgid ""
 "Automatically enabled. If unchecked, the learners won't be able to search "
 "for a course on the learner portal."
 msgstr ""
-"Activé automatiquement. Si cette case n&#39;est pas cochée, les apprenants "
+"Activé automatiquement. Si cette case n'est pas cochée, les apprenants "
 "ne pourront pas rechercher de cours sur le portail des apprenants."
 
 #: enterprise/models.py:407
@@ -1515,7 +1515,7 @@ msgid ""
 "portal dashboard."
 msgstr ""
 "Si cette case est cochée, les apprenants pourront voir les parcours sur le "
-"tableau de bord du portail de l&#39;apprenant."
+"tableau de bord du portail de l'apprenant."
 
 #: enterprise/models.py:423
 msgid ""
@@ -1539,7 +1539,7 @@ msgid ""
 "portal."
 msgstr ""
 "Si cette case est cochée, la recherche sera remplacée par une académie sur "
-"le portail des apprenants d&#39;entreprise."
+"le portail des apprenants d'entreprise."
 
 #: enterprise/models.py:445
 msgid ""
@@ -1554,8 +1554,8 @@ msgid ""
 "Automatically enabled. Displays advanced analytics page on the administrator"
 " portal, which includes skill and labor market data."
 msgstr ""
-"Activé automatiquement. Affiche la page d&#39;analyse avancée sur le portail"
-" de l&#39;administrateur, qui comprend des données sur les compétences et le"
+"Activé automatiquement. Affiche la page d'analyse avancée sur le portail"
+" de l'administrateur, qui comprend des données sur les compétences et le"
 " marché du travail."
 
 #: enterprise/models.py:459
@@ -1563,8 +1563,8 @@ msgid ""
 "Enables the learning platform configuration screen on the administrator "
 "portal."
 msgstr ""
-"Active l&#39;écran de configuration de la plateforme d&#39;apprentissage sur"
-" le portail de l&#39;administrateur."
+"Active l'écran de configuration de la plateforme d'apprentissage sur"
+" le portail de l'administrateur."
 
 #: enterprise/models.py:465
 msgid ""
@@ -1589,16 +1589,16 @@ msgid ""
 "customer."
 msgstr ""
 "Affichez les données de démonstration des analyses et le rapport de "
-"progression de l&#39;apprenant pour le client de démonstration."
+"progression de l'apprenant pour le client de démonstration."
 
 #: enterprise/models.py:484
 msgid ""
 "Email linked on learner portal as public point of contact, will default to "
 "all admin users associated with this customer if left blank."
 msgstr ""
-"L&#39;e-mail lié au portail de l&#39;apprenant en tant que point de contact "
+"L'e-mail lié au portail de l'apprenant en tant que point de contact "
 "public sera par défaut adressé à tous les utilisateurs administrateurs "
-"associés à ce client s&#39;il est laissé vide."
+"associés à ce client s'il est laissé vide."
 
 #: enterprise/models.py:494
 msgid ""
@@ -1607,19 +1607,19 @@ msgid ""
 "ecommerce when creating orders for financial data reporting."
 msgstr ""
 "Spécifie le pourcentage de remise utilisé pour les inscriptions à partir de "
-"l&#39;API d&#39;inscription lorsqu&#39;il n&#39;est pas possible de capturer"
+"l'API d'inscription lorsqu'il n'est pas possible de capturer"
 " la remise par commande. Ceci est transmis au commerce électronique lors de "
 "la création de commandes pour le reporting des données financières."
 
 #: enterprise/models.py:508
 msgid "Specifies the default language for learners of the organization."
 msgstr ""
-"Spécifie la langue par défaut pour les apprenants de l&#39;organisation."
+"Spécifie la langue par défaut pour les apprenants de l'organisation."
 
 #: enterprise/models.py:518
 msgid "Specifies the sender alias for automated emails from the edX system."
 msgstr ""
-"Spécifie l&#39;alias de l&#39;expéditeur pour les e-mails automatisés du "
+"Spécifie l'alias de l'expéditeur pour les e-mails automatisés du "
 "système edX."
 
 #: enterprise/models.py:526
@@ -1634,7 +1634,7 @@ msgid ""
 "Text shown on the learner portal dashboard for customer specific purposes. "
 "Open HTML field."
 msgstr ""
-"Texte affiché sur le tableau de bord du portail de l&#39;apprenant à des "
+"Texte affiché sur le tableau de bord du portail de l'apprenant à des "
 "fins spécifiques au client. Ouvrez le champ HTML."
 
 #: enterprise/models.py:867
@@ -1643,8 +1643,8 @@ msgid ""
 "returned nothing. Proceeding with enrollment, but notifications won't be "
 "sent"
 msgstr ""
-"Les détails du cours n&#39;ont pas été trouvés pour la clé de cours {} - "
-"L&#39;API du catalogue de cours n&#39;a rien renvoyé. L&#39;inscription est "
+"Les détails du cours n'ont pas été trouvés pour la clé de cours {} - "
+"L'API du catalogue de cours n'a rien renvoyé. L'inscription est "
 "en cours, mais les notifications ne seront pas envoyées"
 
 #: enterprise/models.py:1102
@@ -1652,9 +1652,9 @@ msgid ""
 "When enabled along with `active`, all other linked enterprise customers for "
 "this user will be marked as inactive upon save."
 msgstr ""
-"Lorsqu&#39;ils sont activés avec « actif », tous les autres clients "
-"d&#39;entreprise liés pour cet utilisateur seront marqués comme inactifs "
-"lors de l&#39;enregistrement."
+"Lorsqu'ils sont activés avec « actif », tous les autres clients "
+"d'entreprise liés pour cet utilisateur seront marqués comme inactifs "
+"lors de l'enregistrement."
 
 #: enterprise/models.py:1109
 msgid "Enterprise Customer Learner"
@@ -1662,7 +1662,7 @@ msgstr "Apprenant client entreprise"
 
 #: enterprise/models.py:1110
 msgid "Enterprise Customer Learners"
-msgstr "Apprenants clients d&#39;entreprise"
+msgstr "Apprenants clients d'entreprise"
 
 #: enterprise/models.py:1739
 msgid "Logo images must be in .png format."
@@ -1679,27 +1679,27 @@ msgstr "Configurations de marque"
 #: enterprise/models.py:1855
 msgid "Specifies whether this is default provider for enterprise customer."
 msgstr ""
-"Spécifie s&#39;il s&#39;agit du fournisseur par défaut pour le client "
+"Spécifie s'il s'agit du fournisseur par défaut pour le client "
 "entreprise."
 
 #: enterprise/models.py:1940
 msgid ""
 "The UUID of the course (not course run) in which the learner is entitled."
 msgstr ""
-"L&#39;UUID du cours (et non du cours dispensé) auquel l&#39;apprenant a "
+"L'UUID du cours (et non du cours dispensé) auquel l'apprenant a "
 "droit."
 
 #: enterprise/models.py:1950
 msgid "The enterprise learner to which this entitlement is attached."
-msgstr "L&#39;apprenant en entreprise auquel ce droit est attaché."
+msgstr "L'apprenant en entreprise auquel ce droit est attaché."
 
 #: enterprise/models.py:2073
 msgid "The enterprise learner to which this enrollment is attached."
-msgstr "L&#39;apprenant en entreprise auquel cette inscription est attachée."
+msgstr "L'apprenant en entreprise auquel cette inscription est attachée."
 
 #: enterprise/models.py:2080
 msgid "The ID of the course in which the learner was enrolled."
-msgstr "L&#39;identifiant du cours auquel l&#39;apprenant était inscrit."
+msgstr "L'identifiant du cours auquel l'apprenant était inscrit."
 
 #: enterprise/models.py:2087
 msgid ""
@@ -1707,7 +1707,7 @@ msgid ""
 "learner portal."
 msgstr ""
 "Spécifie si un utilisateur a marqué ce cours comme enregistré pour plus tard"
-" dans le portail de l&#39;apprenant."
+" dans le portail de l'apprenant."
 
 #: enterprise/models.py:2103
 msgid ""
@@ -1740,7 +1740,7 @@ msgid ""
 "revoked."
 msgstr ""
 "Si la subvention aux entreprises est révoquée, par exemple lorsque la "
-"licence d&#39;un utilisateur est révoquée."
+"licence d'un utilisateur est révoquée."
 
 #: enterprise/models.py:2550
 msgid "The customer for which this default enrollment will be realized."
@@ -1799,11 +1799,11 @@ msgstr ""
 
 #: enterprise/models.py:2844
 msgid "Enterprise Catalog Query"
-msgstr "Requête de catalogue d&#39;entreprise"
+msgstr "Requête de catalogue d'entreprise"
 
 #: enterprise/models.py:2845
 msgid "Enterprise Catalog Queries"
-msgstr "Requêtes de catalogue d&#39;entreprise"
+msgstr "Requêtes de catalogue d'entreprise"
 
 #: enterprise/models.py:2958
 msgid ""
@@ -1814,7 +1814,7 @@ msgid ""
 msgstr ""
 "Paramètres de requête qui seront utilisés pour filtrer les résultats de "
 "recherche/tous les points de terminaison du service de découverte, spécifiés"
-" en tant qu&#39;objet Json. Un objet Json vide signifie que tous les "
+" en tant qu'objet Json. Un objet Json vide signifie que tous les "
 "éléments de contenu disponibles seront inclus dans le catalogue."
 
 #: enterprise/models.py:2966
@@ -1822,7 +1822,7 @@ msgid ""
 "Ordered list of enrollment modes which can be displayed to learners for "
 "course runs in this catalog."
 msgstr ""
-"Liste ordonnée des modes d&#39;inscription qui peuvent être affichés aux "
+"Liste ordonnée des modes d'inscription qui peuvent être affichés aux "
 "apprenants pour les cours exécutés dans ce catalogue."
 
 #: enterprise/models.py:2972
@@ -1830,8 +1830,8 @@ msgid ""
 "Specifies whether courses should be published with direct-to-audit "
 "enrollment URLs."
 msgstr ""
-"Spécifie si les cours doivent être publiés avec des URL d&#39;inscription "
-"directes à l&#39;audit."
+"Spécifie si les cours doivent être publiés avec des URL d'inscription "
+"directes à l'audit."
 
 #: enterprise/models.py:2979
 msgid "Enterprise Customer Catalog"
@@ -1839,15 +1839,15 @@ msgstr "Catalogue Client Entreprise"
 
 #: enterprise/models.py:2980 enterprise/models.py:3527
 msgid "Enterprise Customer Catalogs"
-msgstr "Catalogues clients d&#39;entreprise"
+msgstr "Catalogues clients d'entreprise"
 
 #: enterprise/models.py:3247
 msgid ""
 "Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:\n"
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
-"Remplissez un modèle Django standard qui, une fois rendu, produit l&#39;e-mail que vous souhaitez envoyer aux apprenants Enterprise Customer nouvellement inscrits. Les variables suivantes peuvent être disponibles :\n"
-"<ul><li> user_name : un nom lisible par l&#39;homme pour la personne à qui l&#39;on envoie un e-mail. Assurez-vous de gérer le cas où cela n&#39;est pas défini, car il peut manquer dans certains cas. Il peut également s&#39;agir d&#39;un nom d&#39;utilisateur, si l&#39;apprenant n&#39;a pas configuré son « vrai » nom dans le système.</li><li> Organization_name : Le nom de l’organisation qui parraine l’inscription.</li><li> enrôlé_in : détails du cours ou du programme auquel vous êtes inscrit. Il peut contenir :<ul><li> name : Le nom de l&#39;élément pouvant être inscrit (par exemple, &quot;Cours de démonstration&quot;).</li><li> url : un lien vers la page d&#39;accueil de l&#39;élément inscrit.</li><li> branding : un nom de marque personnalisé pour l’élément inscrit. Par exemple, la marque d&#39;un programme MicroMasters serait « MicroMasters ».</li><li> début : date à laquelle l&#39;élément inscrit devient disponible. Rendu ceci en texte en utilisant le filtre de modèle `date` de Django (voir <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">la documentation de Django</a> ).</li><li> type : indique si l&#39;élément inscrit est un cours, un programme ou autre chose.</li></ul></ul>"
+"Remplissez un modèle Django standard qui, une fois rendu, produit l'e-mail que vous souhaitez envoyer aux apprenants Enterprise Customer nouvellement inscrits. Les variables suivantes peuvent être disponibles :\n"
+"<ul><li> user_name : un nom lisible par l'homme pour la personne à qui l'on envoie un e-mail. Assurez-vous de gérer le cas où cela n'est pas défini, car il peut manquer dans certains cas. Il peut également s'agir d'un nom d'utilisateur, si l'apprenant n'a pas configuré son « vrai » nom dans le système.</li><li> Organization_name : Le nom de l’organisation qui parraine l’inscription.</li><li> enrôlé_in : détails du cours ou du programme auquel vous êtes inscrit. Il peut contenir :<ul><li> name : Le nom de l'élément pouvant être inscrit (par exemple, &quot;Cours de démonstration&quot;).</li><li> url : un lien vers la page d'accueil de l'élément inscrit.</li><li> branding : un nom de marque personnalisé pour l’élément inscrit. Par exemple, la marque d'un programme MicroMasters serait « MicroMasters ».</li><li> début : date à laquelle l'élément inscrit devient disponible. Rendu ceci en texte en utilisant le filtre de modèle `date` de Django (voir <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">la documentation de Django</a> ).</li><li> type : indique si l'élément inscrit est un cours, un programme ou autre chose.</li></ul></ul>"
 
 #: enterprise/models.py:3265
 #, python-brace-format
@@ -1857,7 +1857,7 @@ msgid ""
 " name of the course or program that was enrolled in."
 msgstr ""
 "Saisissez une chaîne qui peut être utilisée pour générer une ligne "
-"d&#39;objet dynamique pour les e-mails de notification. L&#39;espace réservé"
+"d'objet dynamique pour les e-mails de notification. L'espace réservé"
 " {course_name} sera remplacé par le nom du cours ou du programme auquel vous"
 " êtes inscrit."
 
@@ -1930,7 +1930,7 @@ msgid ""
 "The frequency interval (daily, weekly, or monthly) that the report should be"
 " sent."
 msgstr ""
-"L&#39;intervalle de fréquence (quotidien, hebdomadaire ou mensuel) auquel le"
+"L'intervalle de fréquence (quotidien, hebdomadaire ou mensuel) auquel le"
 " rapport doit être envoyé."
 
 #: enterprise/models.py:3464
@@ -1966,8 +1966,8 @@ msgid ""
 "The hour of the day to send the report, in Eastern Standard Time (EST). This"
 " is required for all frequency settings."
 msgstr ""
-"L&#39;heure de la journée à laquelle envoyer le rapport, en heure normale de"
-" l&#39;Est (EST). Ceci est requis pour tous les réglages de fréquence."
+"L'heure de la journée à laquelle envoyer le rapport, en heure normale de"
+" l'Est (EST). Ceci est requis pour tous les réglages de fréquence."
 
 #: enterprise/models.py:3487
 msgid ""
@@ -1979,12 +1979,12 @@ msgstr ""
 
 #: enterprise/models.py:3494
 msgid "SFTP Host name"
-msgstr "Nom d&#39;hôte SFTP"
+msgstr "Nom d'hôte SFTP"
 
 #: enterprise/models.py:3495
 msgid "If the delivery method is sftp, the host to deliver the report to."
 msgstr ""
-"Si la méthode de livraison est sftp, l&#39;hôte auquel transmettre le "
+"Si la méthode de livraison est sftp, l'hôte auquel transmettre le "
 "rapport."
 
 #: enterprise/models.py:3500
@@ -1994,20 +1994,20 @@ msgstr "Port SFTP"
 #: enterprise/models.py:3501
 msgid "If the delivery method is sftp, the port on the host to connect to."
 msgstr ""
-"Si la méthode de livraison est sftp, le port de l&#39;hôte auquel se "
+"Si la méthode de livraison est sftp, le port de l'hôte auquel se "
 "connecter."
 
 #: enterprise/models.py:3508
 msgid "SFTP username"
-msgstr "Nom d&#39;utilisateur SFTP"
+msgstr "Nom d'utilisateur SFTP"
 
 #: enterprise/models.py:3509
 msgid ""
 "If the delivery method is sftp, the username to use to securely access the "
 "host."
 msgstr ""
-"Si la méthode de livraison est sftp, le nom d&#39;utilisateur à utiliser "
-"pour accéder en toute sécurité à l&#39;hôte."
+"Si la méthode de livraison est sftp, le nom d'utilisateur à utiliser "
+"pour accéder en toute sécurité à l'hôte."
 
 #: enterprise/models.py:3515
 msgid ""
@@ -2015,7 +2015,7 @@ msgid ""
 "host. The password will be encrypted when stored in the database."
 msgstr ""
 "Si la méthode de livraison est sftp, le mot de passe à utiliser pour accéder"
-" en toute sécurité à l&#39;hôte. Le mot de passe sera crypté une fois stocké"
+" en toute sécurité à l'hôte. Le mot de passe sera crypté une fois stocké"
 " dans la base de données."
 
 #: enterprise/models.py:3522
@@ -2027,7 +2027,7 @@ msgid ""
 "If the delivery method is sftp, the path on the host to deliver the report "
 "to."
 msgstr ""
-"Si la méthode de livraison est sftp, chemin sur l&#39;hôte auquel "
+"Si la méthode de livraison est sftp, chemin sur l'hôte auquel "
 "transmettre le rapport."
 
 #: enterprise/models.py:3631
@@ -2051,7 +2051,7 @@ msgstr ""
 #: enterprise/models.py:3660
 msgid "Email(s) must be set if the delivery method is email."
 msgstr ""
-"Les e-mails doivent être définis si le mode de livraison est l&#39;e-mail."
+"Les e-mails doivent être définis si le mode de livraison est l'e-mail."
 
 #: enterprise/models.py:3664
 msgid "Decrypted password must be set if the delivery method is email."
@@ -2062,12 +2062,12 @@ msgstr ""
 #: enterprise/models.py:3668
 msgid "SFTP Hostname must be set if the delivery method is sftp."
 msgstr ""
-"Le nom d&#39;hôte SFTP doit être défini si la méthode de livraison est sftp."
+"Le nom d'hôte SFTP doit être défini si la méthode de livraison est sftp."
 
 #: enterprise/models.py:3670
 msgid "SFTP username must be set if the delivery method is sftp."
 msgstr ""
-"Le nom d&#39;utilisateur SFTP doit être défini si la méthode de livraison "
+"Le nom d'utilisateur SFTP doit être défini si la méthode de livraison "
 "est sftp."
 
 #: enterprise/models.py:3672
@@ -2091,10 +2091,10 @@ msgid ""
 "drop down."
 msgstr ""
 "EnterpriseCustomer auquel le rôle est attribué pour l’utilisateur fourni. La"
-" valeur par défaut est le premier client d&#39;entreprise actif auquel "
-"l&#39;utilisateur est lié. Si un autre objet Client d&#39;entreprise est "
-"souhaité, veuillez d&#39;abord créer l&#39;enregistrement, puis modifier le "
-"champ Client d&#39;entreprise à l&#39;aide de la liste déroulante."
+" valeur par défaut est le premier client d'entreprise actif auquel "
+"l'utilisateur est lié. Si un autre objet Client d'entreprise est "
+"souhaité, veuillez d'abord créer l'enregistrement, puis modifier le "
+"champ Client d'entreprise à l'aide de la liste déroulante."
 
 #: enterprise/models.py:4027
 msgid "Filters to show banner notifications conditionally."
@@ -2104,19 +2104,19 @@ msgstr ""
 
 #: enterprise/models.py:4032
 msgid "Admin Notification Filter"
-msgstr "Filtre de notification d&#39;administrateur"
+msgstr "Filtre de notification d'administrateur"
 
 #: enterprise/models.py:4033
 msgid "Admin Notification Filters"
-msgstr "Filtres de notification d&#39;administrateur"
+msgstr "Filtres de notification d'administrateur"
 
 #: enterprise/models.py:4059
 msgid ""
 "Notification banner title which will appear to enterprise admin on admin "
 "portal."
 msgstr ""
-"Titre de la bannière de notification qui apparaîtra à l&#39;administrateur "
-"de l&#39;entreprise sur le portail d&#39;administration."
+"Titre de la bannière de notification qui apparaîtra à l'administrateur "
+"de l'entreprise sur le portail d'administration."
 
 #: enterprise/models.py:4067
 msgid ""
@@ -2124,32 +2124,32 @@ msgid ""
 "portal. You can enter maximum of 512 characters. This text support markdown."
 " See https://commonmark.org/help/ for the supported markdown features."
 msgstr ""
-"Texte de la bannière de notification qui apparaîtra à l&#39;administrateur "
-"de l&#39;entreprise sur le portail d&#39;administration. Vous pouvez saisir "
+"Texte de la bannière de notification qui apparaîtra à l'administrateur "
+"de l'entreprise sur le portail d'administration. Vous pouvez saisir "
 "un maximum de 512 caractères. Ce texte prend en charge la démarque. Voir "
 "https://commonmark.org/help/ pour les fonctionnalités de démarque prises en "
 "charge."
 
 #: enterprise/models.py:4084
 msgid "Admin Notification"
-msgstr "Notification à l&#39;administrateur"
+msgstr "Notification à l'administrateur"
 
 #: enterprise/models.py:4085
 msgid "Admin Notifications"
-msgstr "Notifications d&#39;administration"
+msgstr "Notifications d'administration"
 
 #: enterprise/models.py:4123
 msgid "Admin Notification Read"
-msgstr "Lecture de la notification de l&#39;administrateur"
+msgstr "Lecture de la notification de l'administrateur"
 
 #: enterprise/models.py:4124
 msgid "Admin Notifications Read"
-msgstr "Lecture des notifications d&#39;administrateur"
+msgstr "Lecture des notifications d'administrateur"
 
 #: enterprise/models.py:4157 enterprise/models.py:4261
 #: enterprise/models.py:4406
 msgid "The enterprise that can be linked using this key."
-msgstr "L&#39;entreprise qui peut être liée à l&#39;aide de cette clé."
+msgstr "L'entreprise qui peut être liée à l'aide de cette clé."
 
 #: enterprise/models.py:4166
 msgid "The number of times this key can be used to link a learner."
@@ -2165,7 +2165,7 @@ msgid ""
 "Specifies if the key is active. Once deactivated, the key is no longer valid"
 " and cannot be reactivated."
 msgstr ""
-"Spécifie si la clé est active. Une fois désactivée, la clé n&#39;est plus "
+"Spécifie si la clé est active. Une fois désactivée, la clé n'est plus "
 "valide et ne peut pas être réactivée."
 
 #: enterprise/models.py:4265
@@ -2178,7 +2178,7 @@ msgstr "Réponse ChatGPT."
 
 #: enterprise/models.py:4268
 msgid "Prompt type."
-msgstr "Type d&#39;invite."
+msgstr "Type d'invite."
 
 #: enterprise/models.py:4272
 msgid "ChatGPT Response"
@@ -2194,7 +2194,7 @@ msgstr "Configuration SSO client entreprise"
 
 #: enterprise/models.py:4384
 msgid "Enterprise Customer SSO Configurations"
-msgstr "Configurations SSO pour clients d&#39;entreprise"
+msgstr "Configurations SSO pour clients d'entreprise"
 
 #: enterprise/models.py:4393
 msgid "The display name of the SSO configuration."
@@ -2204,15 +2204,15 @@ msgstr "Le nom d’affichage de la configuration SSO."
 msgid ""
 "Specifies whether the integration with the SSO orchestration is active."
 msgstr ""
-"Spécifie si l&#39;intégration avec l&#39;orchestration SSO est active."
+"Spécifie si l'intégration avec l'orchestration SSO est active."
 
 #: enterprise/models.py:4424
 msgid "The identity provider integrated with by the SSO orchestrator ."
-msgstr "Le fournisseur d&#39;identité intégré par l&#39;orchestrateur SSO."
+msgstr "Le fournisseur d'identité intégré par l'orchestrateur SSO."
 
 #: enterprise/models.py:4433
 msgid "The metadata url of the identity provider."
-msgstr "L&#39;URL des métadonnées du fournisseur d&#39;identité."
+msgstr "L'URL des métadonnées du fournisseur d'identité."
 
 #: enterprise/models.py:4441
 msgid "The metadata xml of the identity provider."
@@ -2227,7 +2227,7 @@ msgid ""
 "Specifies whether the integration with the customer's identity provider "
 "should auto update metadata."
 msgstr ""
-"Spécifie si l&#39;intégration avec le fournisseur d&#39;identité du client "
+"Spécifie si l'intégration avec le fournisseur d'identité du client "
 "doit mettre à jour automatiquement les métadonnées."
 
 #: enterprise/models.py:4513
@@ -2235,8 +2235,8 @@ msgid ""
 "The date and time when the configuration was submitted to the SSO "
 "orchestration."
 msgstr ""
-"La date et l&#39;heure auxquelles la configuration a été soumise à "
-"l&#39;orchestration SSO."
+"La date et l'heure auxquelles la configuration a été soumise à "
+"l'orchestration SSO."
 
 #: enterprise/models.py:4521
 msgid ""
@@ -2244,14 +2244,14 @@ msgid ""
 "orchestration."
 msgstr ""
 "Date et heure auxquelles la configuration a été terminée par "
-"l&#39;orchestration SSO."
+"l'orchestration SSO."
 
 #: enterprise/models.py:4529
 msgid ""
 "The date and time when the configuration was validated and used for the "
 "first time."
 msgstr ""
-"La date et l&#39;heure auxquelles la configuration a été validée et utilisée"
+"La date et l'heure auxquelles la configuration a été validée et utilisée"
 " pour la première fois."
 
 #: enterprise/models.py:4537
@@ -2259,14 +2259,14 @@ msgid ""
 "The date and time when the orchestrator encountered an error during "
 "configuration."
 msgstr ""
-"Date et heure auxquelles l&#39;orchestrateur a rencontré une erreur lors de "
+"Date et heure auxquelles l'orchestrateur a rencontré une erreur lors de "
 "la configuration."
 
 #: enterprise/models.py:4546
 msgid ""
 "Whether admin has indicated the service provider metadata was uploaded."
 msgstr ""
-"Si l&#39;administrateur a indiqué que les métadonnées du fournisseur de "
+"Si l'administrateur a indiqué que les métadonnées du fournisseur de "
 "services ont été téléchargées."
 
 #: enterprise/models.py:4556 enterprise/models.py:4592
@@ -2274,25 +2274,25 @@ msgid ""
 "SAP specific configuration: the timeout interval for the OData API in "
 "seconds."
 msgstr ""
-"Configuration spécifique SAP : l&#39;intervalle de délai d&#39;expiration de"
-" l&#39;API OData en secondes."
+"Configuration spécifique SAP : l'intervalle de délai d'expiration de"
+" l'API OData en secondes."
 
 #: enterprise/models.py:4566
 msgid "SAP specific configuration: the root url of the OData API."
-msgstr "Configuration spécifique SAP : l&#39;url racine de l&#39;API OData."
+msgstr "Configuration spécifique SAP : l'url racine de l'API OData."
 
 #: enterprise/models.py:4575
 msgid "SAP specific configuration: the company id of the OData API."
 msgstr ""
-"Configuration spécifique SAP : l&#39;identifiant de l&#39;entreprise de "
-"l&#39;API OData."
+"Configuration spécifique SAP : l'identifiant de l'entreprise de "
+"l'API OData."
 
 #: enterprise/models.py:4584
 msgid ""
 "SAP specific configuration: the root url of the SAP SuccessFactors OAuth "
 "API."
 msgstr ""
-"Configuration spécifique à SAP : l&#39;URL racine de l&#39;API OAuth de SAP "
+"Configuration spécifique à SAP : l'URL racine de l'API OAuth de SAP "
 "SuccessFactors."
 
 #: enterprise/models.py:4601
@@ -2300,17 +2300,17 @@ msgid ""
 "SAP specific configuration: the private key used to sign the SAML assertion."
 msgstr ""
 "Configuration spécifique SAP : la clé privée utilisée pour signer "
-"l&#39;assertion SAML."
+"l'assertion SAML."
 
 #: enterprise/models.py:4610
 msgid "SAP specific configuration: the client id of the OData API."
 msgstr ""
-"Configuration spécifique SAP : l&#39;identifiant client de l&#39;API OData."
+"Configuration spécifique SAP : l'identifiant client de l'API OData."
 
 #: enterprise/models.py:4619
 msgid "SAP specific configuration: the user id of the OAuth API."
 msgstr ""
-"Configuration spécifique SAP : l&#39;identifiant utilisateur de l&#39;API "
+"Configuration spécifique SAP : l'identifiant utilisateur de l'API "
 "OAuth."
 
 #: enterprise/models.py:4641
@@ -2319,11 +2319,11 @@ msgstr "Le champ est verrouillé car la configuration a déjà été soumise."
 
 #: enterprise/models.py:4679
 msgid "Record has already been submitted for configuration."
-msgstr "L&#39;enregistrement a déjà été soumis pour configuration."
+msgstr "L'enregistrement a déjà été soumis pour configuration."
 
 #: enterprise/models.py:4729
 msgid "Specifies enterprise group name."
-msgstr "Spécifie le nom du groupe d&#39;entreprises."
+msgstr "Spécifie le nom du groupe d'entreprises."
 
 #: enterprise/models.py:4744
 msgid "The type of enterprise group"
@@ -2331,19 +2331,19 @@ msgstr "Le type de groupe d'entreprises"
 
 #: enterprise/models.py:4750
 msgid "Enterprise Group"
-msgstr "Groupe d&#39;entreprise"
+msgstr "Groupe d'entreprise"
 
 #: enterprise/models.py:4751
 msgid "Enterprise Groups"
-msgstr "Groupes d&#39;entreprises"
+msgstr "Groupes d'entreprises"
 
 #: enterprise/models.py:4864
 msgid ""
 "The moment at which the membership record is written with an Enterprise "
 "Customer User record."
 msgstr ""
-"Moment auquel l&#39;enregistrement d&#39;adhésion est rédigé avec un "
-"enregistrement d&#39;utilisateur client entreprise."
+"Moment auquel l'enregistrement d'adhésion est rédigé avec un "
+"enregistrement d'utilisateur client entreprise."
 
 #: enterprise/models.py:4874
 msgid "Current status of the membership record"
@@ -2354,8 +2354,8 @@ msgid ""
 "The moment at which the membership record was revoked by an Enterprise "
 "admin."
 msgstr ""
-"Moment auquel l&#39;enregistrement d&#39;adhésion a été révoqué par un "
-"administrateur d&#39;entreprise."
+"Moment auquel l'enregistrement d'adhésion a été révoqué par un "
+"administrateur d'entreprise."
 
 #: enterprise/models.py:4889
 msgid ""
@@ -2367,7 +2367,7 @@ msgstr ""
 
 #: enterprise/models.py:4894
 msgid "Enterprise Group Membership"
-msgstr "Adhésion à un groupe d&#39;entreprises"
+msgstr "Adhésion à un groupe d'entreprises"
 
 #: enterprise/models.py:4895
 msgid "Enterprise Group Memberships"
@@ -2442,15 +2442,15 @@ msgstr "Terme de recherche: "
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:87
 msgid "Search email address or username"
-msgstr "Rechercher une adresse e-mail ou un nom d&#39;utilisateur"
+msgstr "Rechercher une adresse e-mail ou un nom d'utilisateur"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:98
 msgid "User Email"
-msgstr "E-mail de l&#39;utilisateur"
+msgstr "E-mail de l'utilisateur"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:99
 msgid "Username"
-msgstr "Nom d&#39;utilisateur"
+msgstr "Nom d'utilisateur"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:100
 msgid "Linked Date"
@@ -2463,7 +2463,7 @@ msgstr "Inscrire"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:139
 msgid "Learner Email"
-msgstr "E-mail de l&#39;apprenant"
+msgstr "E-mail de l'apprenant"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:140
 msgid "Date Added"
@@ -2477,7 +2477,7 @@ msgstr "Relier les apprenants"
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:28
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:41
 msgid "Setup Auth org id"
-msgstr "Configurer l&#39;ID d&#39;organisation d&#39;authentification"
+msgstr "Configurer l'ID d'organisation d'authentification"
 
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:46
 msgid "Cancel"
@@ -2499,13 +2499,13 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"Soit « E-mail ou nom d&#39;utilisateur » soit « Téléchargement groupé CSV » "
-"doivent être spécifiés, mais les deux l&#39;étaient."
+"Soit « E-mail ou nom d'utilisateur » soit « Téléchargement groupé CSV » "
+"doivent être spécifiés, mais les deux l'étaient."
 
 #: enterprise/utils.py:152
 msgid "Error: Learners could not be added. Correct the following errors."
 msgstr ""
-"Erreur : Les apprenants n&#39;ont pas pu être ajoutés. Corrigez les erreurs "
+"Erreur : Les apprenants n'ont pas pu être ajoutés. Corrigez les erreurs "
 "suivantes."
 
 #: enterprise/utils.py:154
@@ -2513,13 +2513,13 @@ msgstr ""
 msgid ""
 "Enrollment track {course_mode} is not available for course {course_id}."
 msgstr ""
-"Le parcours d&#39;inscription {course_mode} n&#39;est pas disponible pour le"
+"Le parcours d'inscription {course_mode} n'est pas disponible pour le"
 " cours {course_id} ."
 
 #: enterprise/utils.py:156
 msgid "Select a course enrollment track for the given course(s)."
 msgstr ""
-"Sélectionnez une piste d&#39;inscription à un cours pour le(s) cours "
+"Sélectionnez une piste d'inscription à un cours pour le(s) cours "
 "donné(s)."
 
 #: enterprise/utils.py:158
@@ -2528,7 +2528,7 @@ msgid ""
 "Could not retrieve details for the course ID {course_id}. Specify a valid "
 "ID."
 msgstr ""
-"Impossible de récupérer les détails de l&#39;ID de cours {course_id} . "
+"Impossible de récupérer les détails de l'ID de cours {course_id} . "
 "Spécifiez un identifiant valide."
 
 #: enterprise/utils.py:161
@@ -2550,7 +2550,7 @@ msgid ""
 "{argument} does not appear to be a valid email address or known username"
 msgstr ""
 "{argument} ne semble pas être une adresse e-mail valide ou un nom "
-"d&#39;utilisateur connu"
+"d'utilisateur connu"
 
 #: enterprise/utils.py:170
 #, python-brace-format
@@ -2558,8 +2558,8 @@ msgid ""
 "Expected a CSV file with [{expected_columns}] columns, but found "
 "[{actual_columns}] columns instead."
 msgstr ""
-"Je m&#39;attendais à un fichier CSV avec des colonnes [ {expected_columns} "
-"], mais j&#39;ai trouvé des colonnes [ {actual_columns} ] à la place."
+"Je m'attendais à un fichier CSV avec des colonnes [ {expected_columns} "
+"], mais j'ai trouvé des colonnes [ {actual_columns} ] à la place."
 
 #: enterprise/utils.py:174
 msgid "Reason field is required but was not filled."
@@ -2570,8 +2570,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "neither were."
 msgstr ""
-"Soit « E-mail ou nom d&#39;utilisateur », soit « Téléchargement groupé CSV »"
-" doivent être spécifiés, mais aucun ne l&#39;a été."
+"Soit « E-mail ou nom d'utilisateur », soit « Téléchargement groupé CSV »"
+" doivent être spécifiés, mais aucun ne l'a été."
 
 #: enterprise/utils.py:180
 #, python-brace-format
@@ -2579,23 +2579,23 @@ msgid ""
 "User with email address {email} is already registered with Enterprise "
 "Customer {ec_name}"
 msgstr ""
-"L&#39;utilisateur avec l&#39;adresse e-mail {email} est déjà enregistré "
+"L'utilisateur avec l'adresse e-mail {email} est déjà enregistré "
 "auprès du client Enterprise {ec_name}"
 
 #: enterprise/utils.py:182
 msgid "User is not linked with Enterprise Customer"
-msgstr "L&#39;utilisateur n&#39;est pas lié au client Enterprise"
+msgstr "L'utilisateur n'est pas lié au client Enterprise"
 
 #: enterprise/utils.py:183
 #, python-brace-format
 msgid "User with email address {email} doesn't exist."
-msgstr "L&#39;utilisateur avec l&#39;adresse e-mail {email} n&#39;existe pas."
+msgstr "L'utilisateur avec l'adresse e-mail {email} n'existe pas."
 
 #: enterprise/utils.py:184
 #, python-brace-format
 msgid "Course ID {course_id} doesn't exist in Enterprise Customer's Catalog"
 msgstr ""
-"L&#39;ID de cours {course_id} n&#39;existe pas dans le catalogue du client "
+"L'ID de cours {course_id} n'existe pas dans le catalogue du client "
 "Enterprise."
 
 #: enterprise/utils.py:186
@@ -2604,15 +2604,15 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"L&#39;utilisateur Worker du canal Entreprise portant le nom "
-"d&#39;utilisateur « {channel_worker_username} » est introuvable."
+"L'utilisateur Worker du canal Entreprise portant le nom "
+"d'utilisateur « {channel_worker_username} » est introuvable."
 
 #: enterprise/utils.py:189
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
-"Impossible d&#39;analyser le fichier CSV. Veuillez vous assurer qu&#39;il "
-"s&#39;agit d&#39;un fichier CSV codé &#39;utf-8&#39;."
+"Impossible d'analyser le fichier CSV. Veuillez vous assurer qu'il "
+"s'agit d'un fichier CSV codé 'utf-8'."
 
 #: enterprise/utils.py:192
 msgid "Discount percentage should be from 0 to 100."
@@ -2625,11 +2625,11 @@ msgstr "Vous êtes inscrit à {course_name} !"
 
 #: enterprise/utils.py:561 enterprise/utils.py:640
 msgid "`user` must have one of either `email` or `user_email`."
-msgstr "« user » doit avoir l&#39;un des deux « email » ou « user_email »."
+msgstr "« user » doit avoir l'un des deux « email » ou « user_email »."
 
 #: enterprise/validators.py:30
 msgid "Value entered is not a valid hex color code."
-msgstr "La valeur saisie n&#39;est pas un code couleur hexadécimal valide."
+msgstr "La valeur saisie n'est pas un code couleur hexadécimal valide."
 
 #: enterprise/validators.py:41
 msgid "Unsupported file extension."
@@ -2647,12 +2647,12 @@ msgid ""
 "but isn't available."
 msgstr ""
 "La méthode suivante de la plateforme Open edX est nécessaire pour cette vue "
-"mais n&#39;est pas disponible."
+"mais n'est pas disponible."
 
 #: enterprise/views.py:232
 #, python-brace-format
 msgid "{platform_name} home page"
-msgstr "{platform_name} page d&#39;accueil"
+msgstr "{platform_name} page d'accueil"
 
 #: enterprise/views.py:352
 msgid "Data sharing consent required"
@@ -2678,7 +2678,7 @@ msgid ""
 "completion and performance in all {platform_name} courses and programs where"
 " my enrollment is sponsored by {enterprise_customer_name}."
 msgstr ""
-"J&#39;accepte d&#39;autoriser {platform_name} à partager des données sur mon"
+"J'accepte d'autoriser {platform_name} à partager des données sur mon"
 " inscription, mon achèvement et mes performances dans tous les cours et "
 "programmes {platform_name} pour lesquels mon inscription est parrainée par "
 "{enterprise_customer_name} ."
@@ -2698,7 +2698,7 @@ msgid ""
 "{enterprise_customer_name} (or its designee) for these courses and programs "
 "are limited to the following:"
 msgstr ""
-"Les données d&#39;inscription, d&#39;achèvement et de performances qui "
+"Les données d'inscription, d'achèvement et de performances qui "
 "peuvent être partagées avec {enterprise_customer_name} (ou son représentant)"
 " pour ces cours et programmes sont limitées aux éléments suivants :"
 
@@ -2709,7 +2709,7 @@ msgid ""
 " my {platform_name} account"
 msgstr ""
 "Mon adresse email pour mon compte {platform_name} , et la date à laquelle "
-"j&#39;ai créé mon compte {platform_name}"
+"j'ai créé mon compte {platform_name}"
 
 #: enterprise/views.py:389
 #, python-brace-format
@@ -2724,7 +2724,7 @@ msgstr ""
 #: enterprise/views.py:395
 #, python-brace-format
 msgid "My {platform_name} username"
-msgstr "Mon nom d&#39;utilisateur {platform_name}"
+msgstr "Mon nom d'utilisateur {platform_name}"
 
 #: enterprise/views.py:396
 msgid "My country or region of residence"
@@ -2746,7 +2746,7 @@ msgid ""
 "duration and level of effort required"
 msgstr ""
 "Informations sur chaque cours ou programme auquel je me suis inscrit, y "
-"compris sa durée et le niveau d&#39;effort requis"
+"compris sa durée et le niveau d'effort requis"
 
 #: enterprise/views.py:406
 msgid ""
@@ -2754,8 +2754,8 @@ msgid ""
 "whether I watched a given video or attempted or completed a given homework "
 "assignment)"
 msgstr ""
-"Si j&#39;ai terminé des parties spécifiques de chaque cours ou programme "
-"(par exemple, si j&#39;ai regardé une vidéo donnée ou si j&#39;ai tenté ou "
+"Si j'ai terminé des parties spécifiques de chaque cours ou programme "
+"(par exemple, si j'ai regardé une vidéo donnée ou si j'ai tenté ou "
 "terminé un devoir donné)"
 
 #: enterprise/views.py:410
@@ -2765,11 +2765,11 @@ msgid ""
 "when I last logged in to each course or program and how much of the course "
 "or program content I have consumed"
 msgstr ""
-"Mon pourcentage global d&#39;achèvement de chaque cours ou programme sur une"
+"Mon pourcentage global d'achèvement de chaque cours ou programme sur une"
 " base périodique, y compris le temps total passé dans chaque cours ou "
 "programme, la date à laquelle je me suis connecté pour la dernière fois à "
 "chaque cours ou programme et la quantité de contenu du cours ou du programme"
-" que j&#39;ai consommée."
+" que j'ai consommée."
 
 #: enterprise/views.py:414
 msgid ""
@@ -2786,12 +2786,12 @@ msgid ""
 "My final grade in each course or program, and the date when I completed each"
 " course or program"
 msgstr ""
-"Ma note finale dans chaque cours ou programme et la date à laquelle j&#39;ai"
+"Ma note finale dans chaque cours ou programme et la date à laquelle j'ai"
 " terminé chaque cours ou programme"
 
 #: enterprise/views.py:417
 msgid "Whether I received a certificate in each course or program"
-msgstr "Si j&#39;ai reçu un certificat dans chaque cours ou programme"
+msgstr "Si j'ai reçu un certificat dans chaque cours ou programme"
 
 #: enterprise/views.py:420
 #, python-brace-format
@@ -2802,10 +2802,10 @@ msgid ""
 " I may withdraw my permission only by fully unenrolling from any courses or "
 "programs that are sponsored by {enterprise_customer_name}."
 msgstr ""
-"Mon autorisation s&#39;applique uniquement aux données des cours ou "
+"Mon autorisation s'applique uniquement aux données des cours ou "
 "programmes sponsorisés par {enterprise_customer_name} , et non aux données "
 "des cours ou programmes {platform_name} que je suit moi-même. Je comprends "
-"que je ne peux retirer mon autorisation qu&#39;en me désinscrivant "
+"que je ne peux retirer mon autorisation qu'en me désinscrivant "
 "complètement de tout cours ou programme sponsorisé par "
 "{enterprise_customer_name} ."
 
@@ -2829,7 +2829,7 @@ msgid ""
 "language version will control if there is any conflict."
 msgstr ""
 "Toute version de cette politique de partage de données dans une langue autre"
-" que l&#39;anglais est fournie pour plus de commodité et vous comprenez et "
+" que l'anglais est fournie pour plus de commodité et vous comprenez et "
 "acceptez que la version en langue anglaise prévaudra en cas de conflit."
 
 #: enterprise/views.py:439
@@ -2861,8 +2861,8 @@ msgid ""
 "achievements with {bold_start}{enterprise_customer_name}{bold_end}. If you "
 "decline now, you will be redirected to the previous page."
 msgstr ""
-"Pour accéder à ce {item} , vous devez d&#39;abord consentir à partager vos "
-"acquis d&#39;apprentissage avec {bold_start} {enterprise_customer_name} "
+"Pour accéder à ce {item} , vous devez d'abord consentir à partager vos "
+"acquis d'apprentissage avec {bold_start} {enterprise_customer_name} "
 "{bold_end} . Si vous refusez maintenant, vous serez redirigé vers la page "
 "précédente."
 
@@ -2885,7 +2885,7 @@ msgstr "votre inscription à ce {item}"
 
 #: enterprise/views.py:616
 msgid "your learning progress"
-msgstr "vos progrès d&#39;apprentissage"
+msgstr "vos progrès d'apprentissage"
 
 #: enterprise/views.py:617
 msgid "course completion"
@@ -2905,7 +2905,7 @@ msgstr "Sélectionnez une organisation"
 
 #: enterprise/views.py:1264
 msgid "Instructor-Paced"
-msgstr "Au rythme de l&#39;instructeur"
+msgstr "Au rythme de l'instructeur"
 
 #: enterprise/views.py:1265
 msgid "Self-Paced"
@@ -2952,7 +2952,7 @@ msgstr "Afficher les détails du cours"
 
 #: enterprise/views.py:1610
 msgid "Please select one:"
-msgstr "S&#39;il vous plait sélectionner en un:"
+msgstr "S'il vous plait sélectionner en un:"
 
 #: enterprise/views.py:1611 enterprise/views.py:2112
 msgid "Price"
@@ -3048,17 +3048,17 @@ msgstr "Longueur"
 
 #: enterprise/views.py:2119
 msgid "Program not eligible for one-click purchase."
-msgstr "Programme non éligible à l&#39;achat en un clic."
+msgstr "Programme non éligible à l'achat en un clic."
 
 #: enterprise/views.py:2120
 #, python-brace-format
 msgid "What is an {platform_name} {program_type}?"
-msgstr "Qu&#39;est-ce qu&#39;un {platform_name} {program_type} ?"
+msgstr "Qu'est-ce qu'un {platform_name} {program_type} ?"
 
 #: enterprise/views.py:2124
 #, python-brace-format
 msgid "What is {platform_name}?"
-msgstr "Qu&#39;est-ce que {platform_name} ?"
+msgstr "Qu'est-ce que {platform_name} ?"
 
 #: enterprise/views.py:2129
 #, python-brace-format
@@ -3077,7 +3077,7 @@ msgstr "Éligible aux crédits et aux certificats"
 #: enterprise/views.py:2143
 msgid "Self-paced; courses can be taken in any order"
 msgstr ""
-"À votre rythme ; les cours peuvent être suivis dans n&#39;importe quel ordre"
+"À votre rythme ; les cours peuvent être suivis dans n'importe quel ordre"
 
 #: enterprise/views.py:2145
 #, python-brace-format
@@ -3103,7 +3103,7 @@ msgstr ""
 #: enterprise/config/models.py:45
 msgid "Number of user role asssignments to update in each batch of updates."
 msgstr ""
-"Nombre d&#39;attributions de rôles d&#39;utilisateur à mettre à jour dans "
+"Nombre d'attributions de rôles d'utilisateur à mettre à jour dans "
 "chaque lot de mises à jour."
 
 #: enterprise/config/models.py:50
@@ -3115,5 +3115,5 @@ msgid ""
 "If set, no updates or creates will occur; will instead iterate over the "
 "assignments that would be modified or created"
 msgstr ""
-"Si cette option est définie, aucune mise à jour ou création n&#39;aura "
+"Si cette option est définie, aucune mise à jour ou création n'aura "
 "lieu ; va plutôt parcourir les affectations qui seraient modifiées ou créées"

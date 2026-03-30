@@ -45,7 +45,7 @@ msgid ""
 "synthesis will help you better understand and remember material from this "
 "course."
 msgstr ""
-"Prenez un peu de temps pour réfléchir ici. La recherche montre qu&#39;une "
+"Prenez un peu de temps pour réfléchir ici. La recherche montre qu'une "
 "synthèse significative vous aidera à mieux comprendre et à mémoriser le "
 "contenu de ce cours."
 
@@ -75,7 +75,7 @@ msgstr "Nombre aléatoire généré pour p. -1 si non initialisé"
 
 #: feedback.py:89
 msgid "How user voted. -1 if didn't vote"
-msgstr "L&#39;utilisateur vote. -1 s&#39;il n&#39;a pas voté."
+msgstr "L'utilisateur vote. -1 s'il n'a pas voté."
 
 #: feedback.py:95
 msgid "What percent of the time should this show?"
@@ -103,7 +103,7 @@ msgstr "Message de vote"
 
 #: feedback.py:119
 msgid "Thank you for voting!"
-msgstr "Merci d&#39;avoir voté !"
+msgstr "Merci d'avoir voté !"
 
 #: feedback.py:124 templates/html/studio_view.html:25
 msgid "Feedback message"
@@ -115,7 +115,7 @@ msgstr "Merci pour votre commentaire !"
 
 #: feedback.py:130
 msgid "Show aggregate to students"
-msgstr "Montrez l&#39;agrégat aux apprenants"
+msgstr "Montrez l'agrégat aux apprenants"
 
 #: feedback.py:159
 msgid "Please reflect on this course material"
@@ -181,7 +181,7 @@ msgid ""
 msgstr ""
 "Ce XBlock vous permet de recueillir les commentaires des apprenants sur des "
 "parties du cours. Cela peut être utile soit pour améliorer le cours, soit "
-"pour donner aux apprenants l&#39;occasion de réfléchir à ce qu&#39;ils ont "
+"pour donner aux apprenants l'occasion de réfléchir à ce qu'ils ont "
 "fait."
 
 #: templates/html/studio_view.html:9
@@ -194,7 +194,7 @@ msgstr "Le nom du composant."
 
 #: templates/html/studio_view.html:20
 msgid "The message to show after user vote."
-msgstr "Le message à afficher après le vote de l&#39;utilisateur."
+msgstr "Le message à afficher après le vote de l'utilisateur."
 
 #: templates/html/studio_view.html:28
 msgid "The message to show after user feedback."
@@ -232,12 +232,12 @@ msgstr "Espace réservé de forme libre"
 #: templates/html/studio_view.html:55
 msgid "This is shown as grayed out text before the student has answered."
 msgstr ""
-"Ceci est affiché sous forme de Texte grisé avant que l&#39;apprenant "
-"n&#39;ait répondu."
+"Ceci est affiché sous forme de Texte grisé avant que l'apprenant "
+"n'ait répondu."
 
 #: templates/html/studio_view.html:60
 msgid "Likert icon set"
-msgstr "Jeu d&#39;icônes Likert"
+msgstr "Jeu d'icônes Likert"
 
 #: templates/html/studio_view.html:62
 msgid "Faces (happy to sad)"
