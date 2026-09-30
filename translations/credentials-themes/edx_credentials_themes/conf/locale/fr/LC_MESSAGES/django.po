@@ -47,7 +47,7 @@ msgid ""
 msgstr ""
 "Tous droits réservés sauf indication contraire. edX, Open edX et les logos "
 "edX et Open edX sont des marques déposées ou des marques commerciales "
-"d&#39;edX Inc."
+"d'edX Inc."
 
 #: templates/edx.org/_footer.html:46
 msgid "Powered by"
@@ -55,7 +55,7 @@ msgstr "Alimenté par"
 
 #: templates/edx.org/credentials/programs/base.html:30
 msgid "About edX"
-msgstr "À propos d&#39;edX"
+msgstr "À propos d'edX"
 
 #: templates/edx.org/credentials/programs/base.html:33
 #, python-brace-format
@@ -67,7 +67,7 @@ msgid ""
 msgstr ""
 "{link_start} edX {link_end} propose des cours interactifs en ligne et des "
 "MOOC des meilleures universités du monde, notamment le MIT, Harvard, "
-"Berkeley, l&#39;Université du Texas et bien d&#39;autres. edX est une "
+"Berkeley, l'Université du Texas et bien d'autres. edX est une "
 "initiative en ligne créée par les partenaires fondateurs Harvard et MIT."
 
 #. Translators: MicroBachelors should not be translated, this phrase is
@@ -100,9 +100,9 @@ msgid ""
 "{link_start}Verified Certificates{link_end} from each of the courses "
 "included in the program."
 msgstr ""
-"Un diplôme edX MicroBachelors signifie que l&#39;apprenant a suivi un groupe"
-" de cours qui s&#39;ajoutent à une riche compréhension d&#39;un domaine "
-"d&#39;études. L&#39;achèvement des programmes MicroBachelors nécessite que "
+"Un diplôme edX MicroBachelors signifie que l'apprenant a suivi un groupe"
+" de cours qui s'ajoutent à une riche compréhension d'un domaine "
+"d'études. L'achèvement des programmes MicroBachelors nécessite que "
 "les apprenants obtiennent {link_start}Certificat Vérifiés{link_end} pour "
 "chacun des cours inclus dans le programme."
 
@@ -146,9 +146,9 @@ msgid ""
 "{link_start}Verified Certificates{link_end} from each of the courses "
 "included in the Program."
 msgstr ""
-"Un diplôme edX MicroMasters signifie que l&#39;apprenant a suivi un groupe "
-"de cours qui s&#39;ajoutent à une riche compréhension d&#39;un domaine "
-"d&#39;étude. L&#39;achèvement des programmes MicroMasters nécessite que les "
+"Un diplôme edX MicroMasters signifie que l'apprenant a suivi un groupe "
+"de cours qui s'ajoutent à une riche compréhension d'un domaine "
+"d'étude. L'achèvement des programmes MicroMasters nécessite que les "
 "apprenants obtiennent {link_start}certificats vérifiés{link_end} pour chacun"
 " des cours inclus dans le programme."
 

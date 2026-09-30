@@ -35,7 +35,7 @@ msgstr "Texte du lien :"
 
 #: models.py:36
 msgid "This is the text that will link to your survey."
-msgstr "C&#39;est le texte qui liera à votre enquête."
+msgstr "C'est le texte qui liera à votre enquête."
 
 #: models.py:39
 msgid "Message:"
@@ -44,7 +44,7 @@ msgstr "Message :"
 #: models.py:43
 msgid "This is the text that will be displayed above the link to your survey."
 msgstr ""
-"C&#39;est le texte qui sera affiché au-dessus du lien vers votre enquête."
+"C'est le texte qui sera affiché au-dessus du lien vers votre enquête."
 
 #: models.py:48
 msgid "Param Name:"
@@ -55,12 +55,12 @@ msgid ""
 "This is the name for the User ID parameter in the url. If blank, User ID is "
 "ommitted from the url."
 msgstr ""
-"Il s&#39;agit du nom du paramètre Identité Utilisateur dans l&#39;url. "
-"S&#39;il est vide, l&#39;Identité Utilisateur est omise de l&#39;url."
+"Il s'agit du nom du paramètre Identité Utilisateur dans l'url. "
+"S'il est vide, l'Identité Utilisateur est omise de l'url."
 
 #: models.py:57
 msgid "Survey ID:"
-msgstr "ID de l&#39;enquête :"
+msgstr "ID de l'enquête :"
 
 #: models.py:61
 msgid ""
@@ -68,7 +68,7 @@ msgid ""
 " and letters, and should be entered in the following format: "
 "SV_###############"
 msgstr ""
-"Il s&#39;agit de l&#39;Identité utilisée par Qualtrics pour l&#39;enquête. "
+"Il s'agit de l'Identité utilisée par Qualtrics pour l'enquête. "
 "Il peut inclure des chiffres et des lettres et doit être saisi au format "
 "suivant : SV_###############"
 
@@ -78,4 +78,4 @@ msgstr "Votre université :"
 
 #: models.py:70
 msgid "This is the name of your university."
-msgstr "C&#39;est le nom de votre université."
+msgstr "C'est le nom de votre université."

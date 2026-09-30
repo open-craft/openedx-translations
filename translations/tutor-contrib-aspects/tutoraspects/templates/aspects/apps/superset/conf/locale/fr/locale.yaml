@@ -19,22 +19,22 @@ en:
     <dd> Le pourcentage moyen de réponses correctes à la première tentative des apprenants qui ont tenté de résoudre l'exercice. </dd>
     </dl>
   Action: Action
-  Action Count: Nombre d&#39;actions
-  Action Date: Date d&#39;intervention
+  Action Count: Nombre d'actions
+  Action Date: Date d'intervention
   Active: Actif
   Active Courses: Cours actifs
   Active Learner: Apprenant actif
   Active Learners: Apprenants actifs
   Active Users Per Organization: Utilisateurs actifs par organisation
   Active Within Last 7 Days: Actuellement actif au cours des 7 derniers jours
-  Actor ID: Identité de l&#39;acteur
-  Actor Id: Identité de l&#39;acteur
-  Actors Count: Nombre d&#39;acteurs
+  Actor ID: Identité de l'acteur
+  Actor Id: Identité de l'acteur
+  Actors Count: Nombre d'acteurs
   Approving State: État d'approbation
   At Risk: En danger
   At-Risk Learners: Apprenants à risque
   Attempt: Tentative
-  Attempted All Problems: J&#39;ai tenté tous les exercices
+  Attempted All Problems: J'ai tenté tous les exercices
   Attempted At Least One Problem: Vous avez tenté au moins un exercice
   Attempts: Tentatives
   Average Score: Score moyen
@@ -51,9 +51,9 @@ en:
   COUNT(*): COUNT(*)
   Changed By Fk: Modifié par Fk
   Changed On: 'Date de modification :'
-  Chart showing the number of Superset actions taken on each chart in the selected time period.: Graphique montrant le nombre d&#39;actions Superset effectuées sur chaque graphique au cours de la période sélectionnée.
-  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Graphique montrant le nombre d&#39;actions Superset effectuées sur chaque tableau de bord au cours de la période sélectionnée.
-  Chart showing the number of registered users over the selected time period.: Graphique montrant le nombre d&#39;utilisateurs enregistrés sur la période sélectionnée.
+  Chart showing the number of Superset actions taken on each chart in the selected time period.: Graphique montrant le nombre d'actions Superset effectuées sur chaque graphique au cours de la période sélectionnée.
+  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Graphique montrant le nombre d'actions Superset effectuées sur chaque tableau de bord au cours de la période sélectionnée.
+  Chart showing the number of registered users over the selected time period.: Graphique montrant le nombre d'utilisateurs enregistrés sur la période sélectionnée.
   ClickHouse: ClickHouse
   ClickHouse metrics: Métriques ClickHouse
   Content Level: Niveau de Contenu
@@ -63,7 +63,7 @@ en:
   Count: Compter
   Count of Passing Grades: Nombre de notes réussies
   Count of Scores: Nombre de points
-  Count of unique users who performed an action in Superset over the selected time period.: Nombre d&#39;utilisateurs uniques qui ont effectué une action dans Superset au cours de la période sélectionnée.
+  Count of unique users who performed an action in Superset over the selected time period.: Nombre d'utilisateurs uniques qui ont effectué une action dans Superset au cours de la période sélectionnée.
   Count over time of unique users who performed an action in Superset over the selected time period.: Comptez au fil du temps les utilisateurs uniques qui ont effectué une action dans Superset au cours de la période sélectionnée.
   Course Comparison Dashboard: Tableau de bord de comparaison des cours
   Course Dashboard: Tableau De Bord du cours
@@ -117,13 +117,13 @@ en:
   Dump ID: Identité de vidage
   Duration (Seconds): Durée (secondes)
   Email: E-mail
-  Emission Day: Jour d&#39;émission
-  Emission Hour: Heure d&#39;émission
-  Emission Time: Temps d&#39;émission
+  Emission Day: Jour d'émission
+  Emission Hour: Heure d'émission
+  Emission Time: Temps d'émission
   Engagement: Engagement
   Enrolled At: Inscrit à
-  Enrollees by Enrollment Track: Enrollees par filière d&#39;Inscription
-  Enrollees per Enrollment Track: Inscrits par parcours d&#39;inscription
+  Enrollees by Enrollment Track: Enrollees par filière d'Inscription
+  Enrollees per Enrollment Track: Inscrits par parcours d'inscription
   Enrollment: Inscription
   Enrollment Counts: Inscriptions
   Enrollment Date: Date de l'inscription
@@ -131,17 +131,17 @@ en:
   Enrollment End: Fin des inscriptions
   Enrollment Mode: Modalité d'inscription
   Enrollment Start: Début de l'inscription
-  Enrollment Status: État de l&#39;inscription
+  Enrollment Status: État de l'inscription
   Enrollment Track: Parcours d'inscription
-  Enrollment status: État de l&#39;inscription
+  Enrollment status: État de l'inscription
   Enrollment track: Parcours d'inscription
   Enrollments: Inscriptions
   Event Activity: Activité événementielle
-  Event ID: Identité d&#39;événement
-  Event String: Chaîne d&#39;événement
-  Event Time: Heure de l&#39;évènement
-  Events Cnt: Centre d&#39;événements
-  Fail Login Count: Nombre d&#39;échecs de connexion
+  Event ID: Identité d'événement
+  Event String: Chaîne d'événement
+  Event Time: Heure de l'évènement
+  Events Cnt: Centre d'événements
+  Fail Login Count: Nombre d'échecs de connexion
   Final Response Results: Résultats de la réponse finale
   First Name: Prénom
   Full Views: Vues complètes
@@ -165,8 +165,8 @@ en:
   Individual Learner: Apprenant individuel
   Initial Numeric Responses: Réponses numériques initiales
   Initial Responses: Premières réponses
-  Instance Health: État de santé de l&#39;instance
-  Interaction Type: Type d&#39;interaction
+  Instance Health: État de santé de l'instance
+  Interaction Type: Type d'interaction
   Last Course Published: Derniers cours publiés
   Last Login: Dernière connexion
   Last Name: Nom de famille
@@ -177,7 +177,7 @@ en:
   Learner Performance: Performance de l'Apprenant
   Learner Performance Breakdown: Analyse des performances des Apprenants
   Learner Status: Statut de l'apprenant
-  Learner Summary: Résumé de l&#39;apprenant
+  Learner Summary: Résumé de l'apprenant
   Learners: Apprenants
   Learners with Passing Grade: Apprenants ayant obtenu la note de passage
   Login Count: Nombre de connexions
@@ -192,15 +192,15 @@ en:
   Name: Nom
   Name Org: Nom Org
   Number of Learners: Nombre d'apprenants
-  Number of Learners who Attempted the Problem: Nombre d&#39;Apprenants qui ont tenté l&#39;exercice
+  Number of Learners who Attempted the Problem: Nombre d'Apprenants qui ont tenté l'exercice
   Number of Videos: Nombre de vidéos
   Number of Videos Watched: Nombre de vidéos visionnées
   Number of Views across Video Duration: Nombre de vues sur la durée de la vidéo
-  Object ID: Identité d&#39;objet
+  Object ID: Identité d'objet
   Object Id: Identité d'objet
-  Object Type: Type d&#39;objet
+  Object Type: Type d'objet
   Only available in versions Redwood and later: Disponible uniquement dans les versions Redwood et ultérieures
-  Operator Dashboard: Tableau De Bord de l&#39;opérateur
+  Operator Dashboard: Tableau De Bord de l'opérateur
   Org: Organisation
   Organization: Organisation
   Organizations: Organisations
@@ -305,7 +305,7 @@ en:
   User ID: Identité Utilisateur
   User Info: Informations Utilisateur
   User Name: Nom d'utilisateur
-  User Registration Date: Date d&#39;inscription de l&#39;Utilisateur
+  User Registration Date: Date d'inscription de l'Utilisateur
   Username: Nom D'utilisateur
   Value: Valeur
   Verb ID: Identité du verbe
@@ -333,7 +333,7 @@ en:
   Viewed At Least One Video: Vous avez visionné au moins une vidéo
   Visited On: Visité le site
   Visualization Bucket: Compartiment de visualisation
-  Watched Entire Video: J&#39;ai regardé la vidéo en entier
+  Watched Entire Video: J'ai regardé la vidéo en entier
   Watched Segment Count: Nombre de segments regardés
   Watched Time: Temps de veille
   audit: suivre

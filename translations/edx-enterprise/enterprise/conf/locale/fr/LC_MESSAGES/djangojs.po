@@ -46,7 +46,7 @@ msgstr "Formation professionnelle"
 
 #: enterprise/static/enterprise/js/manage_learners.js:118
 msgid "Professional Education (no ID)"
-msgstr "Formation professionnelle (pas de pièce d&#39;identité)"
+msgstr "Formation professionnelle (pas de pièce d'identité)"
 
 #: enterprise/static/enterprise/js/manage_learners.js:119
 msgid "Credit"
